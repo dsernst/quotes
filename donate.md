@@ -1,6 +1,7 @@
 I gratefully accept donations.
 
-Recurring via Gittip: https://www.gittip.com/dsernst/
+Recurring via Gittip: https://www.gittip.com/dsernst
+
 Bitcoin:
 
 Appreciate your support. :-)
