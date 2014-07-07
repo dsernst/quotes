@@ -1,4 +1,4 @@
-dsernst.github.io
-=================
+David Ernst
+==========
 
-dsernst.com
+Here lies dsernst.com. Why you looking at this code?
