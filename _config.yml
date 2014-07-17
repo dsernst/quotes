@@ -1,2 +1,4 @@
 gems:
   - jemoji
+
+markdown: kramdown
