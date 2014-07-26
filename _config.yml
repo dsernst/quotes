@@ -1,4 +1,26 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
 gems:
   - jemoji
 
-markdown: kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            David Ernst
+tagline:          'A tagline'
+description:      'Because everybody deserves a place to write.'
+url:              http://dsernst.com
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'David Ernst'
+  url:            https://twitter.com/dsernst
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/dsernst/dsernst.github.io
