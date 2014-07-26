@@ -9,8 +9,8 @@ permalink:        pretty
 
 # Setup
 title:            David Ernst
-tagline:          'A tagline'
-description:      'Because everybody deserves a place to write.'
+tagline:          'Because everybody should have a place to write.'
+description:      'A personal site'
 url:              http://dsernst.com
 baseurl:          '/'
 paginate:         5
