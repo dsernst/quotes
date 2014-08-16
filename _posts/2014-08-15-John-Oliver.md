@@ -12,8 +12,6 @@ author:
 > With a combination of humor and fearlessness, Last Week Tonight has done an unlikely thing: spurred action.  
 > TERRANCE ROSS, AUG 14 2014, 2:51 PM ET
 
-And then the insightful takeaway is about his editorial freedom thanks to a lack of advertising, compared with other "news" channels, even Stewart.
+And then the insightful takeaway highlights his editorial freedom, thanks to a lack of advertising dependence. The same can't be said for most other "news" channels, even Stewart's.
 
- 
-
-(And related, *The Atlantic* also just published this: [The Internet's Original Sin: It's not too late to ditch the ad-based business model and build a better web](http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true). Both of which are relevant to [my current project](www.letsfix.net).)
+And then related, *The Atlantic* also just published this: [The Internet's Original Sin: It's not too late to ditch the ad-based business model and build a better web](http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true). Also worth a read, highlighting questions I've been thinking about with [my current project](www.letsfix.net).
