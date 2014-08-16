@@ -16,4 +16,4 @@ And then the insightful takeaway is about his editorial freedom thanks to a lack
 
  
 
-(And related, the Atlantic also just published this: http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true. Both of which are super relevant to [my current project](www.letsfix.net).)
+(And related, the Atlantic also just published this: http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true. Both of which are relevant to [my current project](www.letsfix.net).)
