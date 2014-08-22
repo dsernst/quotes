@@ -43,6 +43,8 @@ New: You can barely see it. Involves learning & change
 
 informative illustration of status-quo'ers vs innovators / extroverts vs. introverts
 
+![Alan Kay's 'Change In Groups' slide](/images/Alan-Kay's-change-in-group.png)
+
 extroverts: "interested in the opinions of others"  
 introverts: "inner directed"  
 
@@ -103,9 +105,9 @@ Thomas Paine: "Instead of having the King be the Law, we can have the Law be the
 
 ------
 
-Wayne Gretsy. Retired for decades & still remembered as the greatest hockey player who ever lived.
-Report comments: "hey, you take a lot of shots and miss."
-Gretsy: "Yeah, well, you miss 100% of the shots you don't take, so why not shoot?"
+Wayne Gretsy. Retired for decades & still remembered as the greatest hockey player who ever lived.  
+Report comments: "hey, you take a lot of shots and miss."  
+Gretsy: "Yeah, well, you miss 100% of the shots you don't take, so why not shoot?"  
 
 Also Gretsky: "A great hockey player goes to where the puck is going to be." Not just guessing direction, but getting to a place where someone could pass to him for him to score.
 
