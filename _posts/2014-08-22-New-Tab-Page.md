@@ -11,6 +11,7 @@ This is what my browser new tab page looks like:
 ![beautiful Chrome new tab page screenshot](/images/new-tab-page.jpg)
 
 There are a few reasons I like this:
+
 * the beautiful background image changes every day. It's naturally inspiring, & I love the variety
 * this puts the time front and center, keeping me on track at a time I am all too vulnerable to lose it (opening a fresh web browser tab)
 * it has an interesting inspiring quote at the bottom. almost all of them are new to me. and I like the general attitude.
