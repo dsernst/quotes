@@ -1,3 +1,11 @@
+---
+title: "New Tab Page"
+layout: "post"
+author: 
+    name: "David Ernst"
+    url: "https://plus.google.com/108803078708042821188?rel=author"
+---
+
 This is what my browser new tab page looks like:
 
 ![new tab page screenshot](images/new-tab-page.jpg)
