@@ -2,7 +2,7 @@ This is what my browser new tab page looks like:
 
 [!screenshot background]
 
-There are a few reasons that I like this:
+There are a few reasons I like this:
   * the beautiful background image changes every day. It's naturally inspiring, & I love the variety
   * this puts the time front and center, keeping me on track at a time I am all too vulnerable to lose it (opening a fresh web browser tab)
   * it has an interesting inspiring quote at the bottom. almost all of them are new to me. and I like the general attitude.
@@ -11,6 +11,6 @@ I like the "What is your main focus for today?" prompt. I'm a big fan of focus. 
 
 I do like the temperature & weather widget in the top right. But I don't look at it very often.
 
-I don't care for the to-do list in the bottom right corner. Maybe it would be useful, but that's not the place I'm looking for a to-do list. I prefer handwritten, GTBee (for that extra sting), and the occasional (digital) Sticky Note widget.
+I don't care for the to-do list in the bottom right corner. Maybe it would be useful, but that's not the place I'm looking for a to-do list. I prefer handwritten, [GTBee](http://blog.beeminder.com/gtbee/) (for that extra sting), and the occasional (digital) Sticky Note widget.
 
 You too can have a new tab page like this, with the free [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) extension for Chrome.
