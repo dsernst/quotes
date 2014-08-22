@@ -7,7 +7,7 @@ author:
 ---
 
 
-Notes from Alan Kay's talk-- [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o). The ideas here are [Mr. Kay](wikipedia.org/Alan_Kay)'s, not my own.
+Notes from Alan Kay's talk-- [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o). Ideas here are [Mr. Kay](wikipedia.org/Alan_Kay)'s, not my own.
 
 ##### 2 minute mark:
 
@@ -33,9 +33,9 @@ Instantly recognized = good
 
 ##### around 16 minutes:
 
-News: Can be told in a few minutes. Uses existing ideas.
-vs
-New: You can barely see it. Involves learning & change
+News: Can be told in a few minutes. Uses existing ideas.  
+vs  
+New: You can barely see it. Involves learning & change  
 
 --------
 
@@ -43,8 +43,8 @@ New: You can barely see it. Involves learning & change
 
 informative illustration of status-quo'ers vs innovators / extroverts vs. introverts
 
-extroverts: "interested in the opinions of others"
-introverts: "inner directed"
+extroverts: "interested in the opinions of others"  
+introverts: "inner directed"  
 
 80% of us don't follow ideas because they are good ideas, but because the idea has already been sanctioned & agreed upon.
 
@@ -53,7 +53,8 @@ introverts: "inner directed"
 "the other 1% are always with us. some years they get burnt at the stake. some years rejected. in the 60s they got funded, Xerox PARC."
 
 
-around 23 min mark:
+#### around 23 min mark:
+
 list of human universals. 300+ activities anthropologists have identified as nearly always used in all times & cultures.
 
 
@@ -95,8 +96,8 @@ Thomas Paine: "Instead of having the King be the Law, we can have the Law be the
 
 #### 35min:
 
-"We are taught Problem Solving in school.... but problems arise naturally around us. What we really need to learn is "Problem Finding". 
-BOOOOOOOOM [LetsFix.net](www.letsfix.net)
+"We are taught Problem Solving in school.... but problems arise naturally around us. What we really need to learn is "Problem Finding".  
+**BOOOOOOOOM** [LetsFix.net](www.letsfix.net)
 
 "Make changes by finding out what the real problem really is."
 
