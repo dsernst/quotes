@@ -9,7 +9,7 @@ author:
 
 Notes from Alan Kay's talk-- [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o). The ideas here are [Mr. Kay](wikipedia.org/Alan_Kay)'s, not my own.
 
-Opening of video: (2 mnute mark?):
+##### 2 minute mark:
 
 * Invention versus Innovation.
 * PARC versus Apple
@@ -19,7 +19,7 @@ Opening of video: (2 mnute mark?):
 
 ---------
 
-Around 13min mark: 
+##### Around 13min mark: 
 
 Learning curve = bad.
 
@@ -31,7 +31,7 @@ Instantly recognized = good
 
 ------
 
-around 16 minutes:
+##### around 16 minutes:
 
 News: Can be told in a few minutes. Uses existing ideas.
 vs
@@ -39,7 +39,7 @@ New: You can barely see it. Involves learning & change
 
 --------
 
-around 20 minutes:
+#### around 20 minutes:
 
 informative illustration of status-quo'ers vs innovators / extroverts vs. introverts
 
@@ -60,7 +60,7 @@ list of human universals. 300+ activities anthropologists have identified as nea
 
 -----
 
-28min:
+#### 28min:
 
 "I don't know who discovered water but it wasn't a fish."
 
@@ -74,7 +74,8 @@ Anthropologists also looked at new & uncommon things, hard to learn:
 * equal civil rights
 
 
-29:40
+#### 29:40: 
+
 "the idea of progress only surfaced in the 18th century... because before the 18th century, virtually everyone on the planet, including in Europe & America, died in the same world that they were born into. The change was so slow"
 
 "suppose you had twice the IQ as Leonardo, but you were born in 10,000BC. How far are you going to get?"
@@ -83,7 +84,8 @@ Leonardo vs. Henry Ford vs. Isaac Newton.
 
 ------
 
-32.5min:
+#### 32:30:
+
 Toqueville: "Americans have no past, and no future. They live in an extended present"
 
 -----
@@ -91,9 +93,11 @@ Toqueville: "Americans have no past, and no future. They live in an extended pre
 Thomas Paine: "Instead of having the King be the Law, we can have the Law be the King." One of the biggest shifts in history.
 
 
-35min:
+#### 35min:
+
 "We are taught Problem Solving in school.... but problems arise naturally around us. What we really need to learn is "Problem Finding". 
-BOOOOOOOOM LetsFix.net
+BOOOOOOOOM [LetsFix.net](www.letsfix.net)
+
 "Make changes by finding out what the real problem really is."
 
 ------
@@ -102,9 +106,10 @@ Wayne Gretsy. Retired for decades & still remembered as the greatest hockey play
 Report comments: "hey, you take a lot of shots and miss."
 Gretsy: "Yeah, well, you miss 100% of the shots you don't take, so why not shoot?"
 
-Also Gretsky: "A great hockey player goes to where the puck is going to be." Not extrapolating trends, but getting to a place where someone could pass to him for him to score.
+Also Gretsky: "A great hockey player goes to where the puck is going to be." Not just guessing direction, but getting to a place where someone could pass to him for him to score.
 
 -------
-39 minutes
+
+#### 39 minutes:
 
 "the way you get good user interfaces is you do experiments with 100s of people. And that's exactly what we did at Xerox PARC."
