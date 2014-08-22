@@ -21,4 +21,4 @@ I do like the temperature & weather widget in the top right. But I don't look at
 
 I don't care for the to-do list in the bottom right corner. Maybe it would be useful, but that's not the place I'm looking for a to-do list. I prefer handwritten, [GTBee](http://blog.beeminder.com/gtbee/) (for that extra sting), and the occasional (digital) Sticky Note widget.
 
-If you want a new tab page like this, try the free [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) extension for Chrome.
+For a new tab page like this, try the free [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) extension for Chrome.
