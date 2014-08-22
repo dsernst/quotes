@@ -1,6 +1,6 @@
 This is what my browser new tab page looks like:
 
-[!screenshot background]
+![new tab page screenshot](images/new-tab-page.jpg)
 
 There are a few reasons I like this:
   * the beautiful background image changes every day. It's naturally inspiring, & I love the variety
