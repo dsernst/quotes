@@ -43,6 +43,7 @@ heh.
 Always finding new things to distract myself. When I know that my most important priority right now is getting the HR pre-course work done.
 
 And instead I find myself:
+
 * making new [Letsfix](http://letsfix.net) extensions, landing pages, or what have you
 * thinking about working deeper with [Beeminder](http://beeminder.com), or working on things like [Folderminder](https://github.com/dsernst/folderminder)
 * trying to contribute to [Squirt.io](http://squirt.io)
