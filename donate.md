@@ -1,4 +1,4 @@
-#### I gratefully accept donations.
+#### I gratefully accept donations, and try to put them towards a good cause.
 
 * Recurring via Gittip: [gittip.com/dsernst](https://www.gittip.com/dsernst)
 * Bitcoin: [14AdpJeWV1CyNtERLshfYAabg3YqzGn6za](bitcoin:14AdpJeWV1CyNtERLshfYAabg3YqzGn6za) or [coinbase.com/dsernst](https://coinbase.com/dsernst)
