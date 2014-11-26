@@ -3,20 +3,20 @@ layout: page
 title: Portfolio
 ---
 
-### Projects I've Started:
+### Started:
 
-* [Metta Date](http://mettadate.dsernst.com)
+* [Metta Date](http://mettadate.dsernst.com): Meditation partners at your fingertips.
 * [Insta Staring Contest](http://staring.dsernst.com)
-* [Letsfix.net](http://letsfix.net)
-* [urBin](http://urbin-storage.com)
-* SR Student Store
+* [Letsfix.net](http://letsfix.net): Solve together.
+* [urBin](http://urbin-storage.com): Easy urban storage.
+* Simon's Rock Student Store: The first student-run bookstore.
 * Simon's Rock Student Opinions
-* Math conference paper, with Aneeqa
+* Hudson River Undergraduate Mathematics Conference presentation
 * ThunderSTRM
 
 ------
 
-### Other projects I like to contribute to:
+### Contributor:
 
 * [Beeminder](http://beeminder.com)
 * [Gratipay](http://gratipay.com)
