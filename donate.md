@@ -1,6 +1,11 @@
-#### I gratefully accept donations, and try to put them towards a good cause.
+---
+layout: page
+title: Gifts
+---
 
-* Recurring via Gittip: [gittip.com/dsernst](https://www.gittip.com/dsernst)
+#### In the spirit of the [gift economy](https://www.youtube.com/watch?v=EEZkQv25uEs), I gratefully accept donations, and try to put them towards a good cause.
+
+* Recurring donations via Gratipay: [gratipay.com/dsernst](https://www.gratipay.com/dsernst)
 * Bitcoin: [14AdpJeWV1CyNtERLshfYAabg3YqzGn6za](bitcoin:14AdpJeWV1CyNtERLshfYAabg3YqzGn6za) or [coinbase.com/dsernst](https://coinbase.com/dsernst)
 
 Appreciate your support. :smile:
