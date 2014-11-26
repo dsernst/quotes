@@ -1,21 +1,23 @@
-## Portfolio
+---
+layout: page
+title: Portfolio
+---
 
-### Projects:
+### Projects I've Started:
 
-* Metta Date
-* Insta Staring Contest
-* Letsfix.net
-* urBin
+* [Metta Date](http://mettadate.dsernst.com)
+* [Insta Staring Contest](http://staring.dsernst.com)
+* [Letsfix.net](http://letsfix.net)
+* [urBin](http://urbin-storage.com)
 * SR Student Store
 * Simon's Rock Student Opinions
-* Math Conference paper with Aneeqa
+* Math conference paper, with Aneeqa
 * ThunderSTRM
 
 ------
 
 ### Other projects I like to contribute to:
 
-* Beeminder
-* Gratipay
-* Squirt
-* Inspiration For Success
+* [Beeminder](http://beeminder.com)
+* [Gratipay](http://gratipay.com)
+* [Squirt](http://squirt.io)
