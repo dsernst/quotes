@@ -1,3 +1,4 @@
-### "Truth is what works." -- William James
+### "Truth is what works." 
+-- William James
 
-via Charlie Cross, October 2014 roadtrip to San Francisco
+used by Charlie Cross during the October 2014 roadtrip to San Francisco
