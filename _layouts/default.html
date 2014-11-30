@@ -42,6 +42,12 @@
           checkbox.checked = false;
         }, false);
       })(document);
+
+      $(document).keydown(function (e) {
+        if (e.keyCode === 37) {
+          $("#sidebar-checkbox").click();
+        }
+      });
     </script>
   </body>
 </html>
