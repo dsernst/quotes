@@ -6,7 +6,7 @@ author:
     url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
-For Hack Reactor, we were asked to create Stack and Queue data-structures, and then to instantiate them in different ways: a functional style, a functional-shared style where methods are shared in memory, a prototypal style, and a pseudoclassical style.
+For Hack Reactor, we were asked to create Stack and Queue data-structures, and then to instantiate them in different ways: a functional style, a functional-shared style (where methods are shared in memory), a prototypal style, and a pseudoclassical style.
 
 [Andy Coenen](https://github.com/cannoneyed) and I then profiled the different methods to investigate their comparative speeds.
 
