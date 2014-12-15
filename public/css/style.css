@@ -1,15 +1,23 @@
+.postsList > p {
+  margin-bottom: 2px;
+}
+
 .fa-twitter {
-	color: #55ACEE;
+  color: #55ACEE;
 }
 
 .fa-linkedin-square {
-	color: #007bb6;
+  color: #007bb6;
 }
 
 .fa-github {
-	color: #171516;
+  color: #171516;
 }
 
 .fa-gittip {
-	color: #630;
+  color: #630;
+}
+
+.post-date {
+  font-size: .9rem;
 }
