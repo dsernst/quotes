@@ -7,7 +7,7 @@ author:
 ---
 
 
-Notes from Alan Kay's talk-- [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o). Ideas here are [Mr. Kay](wikipedia.org/Alan_Kay)'s, not my own.
+Notes from Alan Kay's talk-- [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o). Ideas here are [Mr. Kay](http://en.wikipedia.org/wiki/Alan_Kay)'s, not my own.
 
 ##### 2 minute mark:
 
@@ -98,8 +98,7 @@ Thomas Paine: "Instead of having the King be the Law, we can have the Law be the
 
 #### 35min:
 
-"We are taught Problem Solving in school.... but problems arise naturally around us. What we really need to learn is "Problem Finding".  
-**BOOOOOOOOM** [LetsFix.net](www.letsfix.net)
+"We are taught Problem Solving in school.... but problems arise naturally around us. [What we really need to learn is "Problem Finding"](http://www.letsfix.net).
 
 "Make changes by finding out what the real problem really is."
 
