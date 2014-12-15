@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-<i class="fa fa-envelope"></i> You can write me at [hello@dsernst.com](mailto:hello@dsernst.com).
+<i class="fa fa-envelope"></i> You can write to [hello@dsernst.com](mailto:hello@dsernst.com).
 
 <i class="fa fa-twitter"></i> Tweet to [@dsernst](https://twitter.com/dsernst).
 
