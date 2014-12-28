@@ -18,6 +18,7 @@ paginate:         5
 author:
   name:           'David Ernst'
   url:            https://twitter.com/dsernst
+  email:          hello@dsernst.com
 
 # Custom vars
 github:
