@@ -22,3 +22,12 @@ author:
 # Custom vars
 github:
   repo:           https://github.com/dsernst/dsernst.github.io
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
