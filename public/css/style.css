@@ -29,3 +29,16 @@
 .fa-rss-square {
   color: #FFA500;
 }
+
+#disqus_thread{
+     position: relative;
+}
+#disqus_thread:after{
+     content: "";
+     display: block;
+     height: 55px;
+     width: 100%;
+     position: absolute;
+     bottom: -5px;
+     background:white;
+}
