@@ -8,7 +8,7 @@ author:
 
 This is what my browser new tab page looks like:
 
-![beautiful Chrome new tab page screenshot](/images/new-tab-page.jpg)
+![beautiful Chrome new tab page screenshot]({{ site.url }}/images/new-tab-page.jpg)
 
 There are a few reasons I like this:
 

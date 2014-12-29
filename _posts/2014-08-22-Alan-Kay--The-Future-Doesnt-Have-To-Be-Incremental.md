@@ -43,7 +43,7 @@ New: You can barely see it. Involves learning & change
 
 informative illustration of status-quo'ers vs innovators / extroverts vs. introverts
 
-![Alan Kay's 'Change In Groups' slide](/images/Alan-Kay's-change-in-group.png)
+![Alan Kay's 'Change In Groups' slide]({{ site.url }}/images/Alan-Kay's-change-in-group.png)
 
 extroverts: "interested in the opinions of others"  
 introverts: "inner directed"  
