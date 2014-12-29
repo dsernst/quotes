@@ -7,7 +7,7 @@ author:
 
 [Ryan Lee](https://github.com/ryanjlee) and I made this game last week: [http://butters.dsernst.com](http://butters.dsernst.com)
 
-![Screenshot of Butters' Game]({{ site.url }}/images/butters_game_screenshot.png)
+![Screenshot of Butters' Game]({{ site.url }}/images/butters_game_screenshot.jpg)
 
 It's inspired by this episode: [http://vimeo.com/100617798](http://vimeo.com/100617798)
 
