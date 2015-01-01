@@ -1,9 +1,6 @@
 ---
 title: "Day 1 of Hack Reactor"
 layout: "post"
-author: 
-    name: "David Ernst"
-    url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
 Yesterday was my first day of [Hack Reactor](http://hackreactor.com). What an incredible day.

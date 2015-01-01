@@ -1,9 +1,6 @@
 ---
 title: "Profiling Object Instantiation"
 layout: "post"
-author: 
-    name: "David Ernst"
-    url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
 For Hack Reactor, we were asked to create Stack and Queue data-structures, and then to instantiate them in different ways: a functional style, a functional-shared style (where methods are shared in memory), a prototypal style, and a pseudoclassical style.

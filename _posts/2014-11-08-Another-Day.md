@@ -1,9 +1,6 @@
 ---
 title: "Another Day"
 layout: "post"
-author: 
-    name: "David Ernst"
-    url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
 Another day.

@@ -1,9 +1,6 @@
 ---
 title: "John Oliver"
 layout: "post"
-author: 
-    name: "David Ernst"
-    url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
 *The Atlantic* has a great piece on John Oliver's new HBO show, *Last Week Tonight*. Includes lots of entertaining clips and stories:

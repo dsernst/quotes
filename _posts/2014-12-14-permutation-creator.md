@@ -1,8 +1,6 @@
 ---
 title: "Heap's Permutation Algorithm in Javascript"
 layout: "post"
-author: 
-    name: "David Ernst"
 ---
 
 Here's a js implementation I made for [Heap's Permutation Algorithm](http://en.wikipedia.org/wiki/Heap's_algorithm). This creates all possible permutations for you.

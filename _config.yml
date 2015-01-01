@@ -32,3 +32,5 @@ defaults:
       type: "posts"
     values:
       comments: true
+      author:
+        name: "David Ernst"

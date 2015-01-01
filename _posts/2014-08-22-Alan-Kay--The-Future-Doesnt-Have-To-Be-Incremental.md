@@ -1,9 +1,6 @@
 ---
 title: "Notes on Alan Kay's 'The Future Doesn't Have to Be Incremental'"
 layout: "post"
-author: 
-    name: "David Ernst"
-    url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
 

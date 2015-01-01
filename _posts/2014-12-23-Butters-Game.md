@@ -1,8 +1,6 @@
 ---
 title: "Butters' Very Own Blog Post"
 layout: "post"
-author: 
-    name: "David Ernst"
 ---
 
 [Ryan Lee](https://github.com/ryanjlee) and I made this game last week: [http://butters.dsernst.com](http://butters.dsernst.com)
