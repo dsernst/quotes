@@ -12,7 +12,7 @@ One of my favorite blogs, Brainpickings, posted an article ["How to Criticize wi
 3. You should mention anything you have learned from your target.
 4. Only then are you permitted to say so much as a word of rebuttal or criticism.
 
-And if that sounds too good to be true, Brainpickings' editor Maria Popova suggets another advantage:
+And if that sounds too good to be true, Brainpickings' editor Maria Popova adds another advantage:
 
 > But rather than a naively utopian, Pollyannaish approach to debate, Dennett points out this is actually a sound psychological strategy that accomplishes one key thing: It transforms your opponent into a more receptive audience for your criticism or dissent, which in turn helps advance the discussion.
 
