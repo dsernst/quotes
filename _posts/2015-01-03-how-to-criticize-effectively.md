@@ -3,7 +3,7 @@ layout: post
 title: How to criticize effectively
 ---
 
-One of my favorite blogs, Brainpickings, posted an article ["How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently"](http://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/). It featured an excerpt from Mr. Dannett that I hope to remember, so I'll share it here:
+One of my favorite blogs, Brainpickings, posted an article ["How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently"](http://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/). It featured an excerpt from Mr. Dannett that I want to remember, so I'll share it here:
 
 > ***How to compose a successful critical commentary:***
 > 
@@ -16,4 +16,4 @@ And if that sounds too good to be true, Brainpickings' editor Maria Popova sugge
 
 > But rather than a naively utopian, Pollyannaish approach to debate, Dennett points out this is actually a sound psychological strategy that accomplishes one key thing: It transforms your opponent into a more receptive audience for your criticism or dissent, which in turn helps advance the discussion.
 
-Here's the [original post on Brainpickings](http://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/), from their [Best Of 2014 Roundup](http://www.brainpickings.org/2014/12/30/best-of-2014/).
+Here's the [original post on Brainpickings](http://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/), from their [Best of 2014 Roundup](http://www.brainpickings.org/2014/12/30/best-of-2014/).
