@@ -7,7 +7,7 @@ tags: [meditation, presentation, Hack Reactor]
 
 Earlier tonight I gave a quick presentation on meditation at Hack Reactor. Here are the slides. Hope you enjoy!
 
-<iframe src="https://docs.google.com/presentation/embed?id=1HbRHxF8nNeHPGEOf2Af7S4lTJNtUzM6Rii4frlo0IFI&amp;start=false&amp;loop=false&amp;" frameborder="0" width="600" height="405" allowfullscreen></iframe>
+<div class="aspectRatioContainer"><iframe src="https://docs.google.com/presentation/embed?id=1HbRHxF8nNeHPGEOf2Af7S4lTJNtUzM6Rii4frlo0IFI&amp;start=false&amp;loop=false&amp;" frameborder="0" width="100%" allowfullscreen class="preserveAspectRatio"></iframe></div>
 
 ### Intro
 Hi everyone. Thank you for being here. My name's David Ernst. And I'll be presenting "Meditation is garbage collection for your mind".
@@ -30,9 +30,9 @@ It includes three different practices, each with slightly different aims: concen
 ### Mental Garbage Collection
 About the title, meditation as garbage collection for your mind--
 
-Throughout the day, we're accumulating mental knots. Maybe we took offense at something someone said, or we're hung up over a mistake we made, or we feel anxiety over an upcoming deadline. These things happen to us all day, every day, and end up distracting us from what's going on right here and now around us. It doesn't serve us anymore to be holding onto those old threads.
+Throughout the day, we're accumulating mental knots. Maybe we took offense at something someone said, or we're hung up over a mistake we made, or we feel anxiety over an upcoming deadline. These things happen all day, every day, and end up distracting us from what's going on right here and now. It doesn't serve us anymore to be holding onto those old threads.
 
-I've found meditation a great way to clear out those mental memory leaks, & release some of that tension, making us more more effective at everything else we do.
+I've found meditation a great way to clear out those mental memory leaks, & release some of that tension, making us much more effective at everything else we do.
 
 ### Getting Started
 1. **Comfortable position.**  
