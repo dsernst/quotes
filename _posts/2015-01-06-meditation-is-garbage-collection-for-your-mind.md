@@ -74,7 +74,7 @@ Find **partners**! Tell people that you're interested. In my experience, finding
 If you're looking for **reading** material, *Mindfulness in Plain English* is often recommended. It's available for free at [urbandharma.org/udharma4/mpe.html](http://www.urbandharma.org/udharma4/mpe.html).
 (shortcut: [mipe.dsernst.com](http://mipe.dsernst.com))
 
-Meditation **retreats**. Full supportive environment, with teachers on-hand. That's where I got started. There are [free](http://dhamma.org) and paid options. It's like going to the dentist -- tough at first, but gives you a real deep clean. Afterwards, you realize just how nice it feels to keep that gunk out.
+Meditation **retreats**. Full supportive environment, with teachers on-hand. That's where I got started. There are [free](http://dhamma.org) and paid options. It's like going to the dentist -- tough at first, but gives you a real deep clean. Afterwards, you experience first-hand just how nice it feels to keep that gunk out.
 
 
 ### Thank you
