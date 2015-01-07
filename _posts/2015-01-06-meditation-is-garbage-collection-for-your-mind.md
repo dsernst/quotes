@@ -20,7 +20,7 @@ Hi everyone. Thank you for being here. My name's David Ernst. And I'll be presen
 5. Okay you can open your eyes. That was a demonstration of focusing and redirecting our attention.
 
 ### Varieties
-Worth mentioning there are thousands and thousands of varieties of meditation, all with various different intentions.
+Worth mentioning there are thousands and thousands of varieties of meditation, with various different intentions.
 
 ### Insight Meditation
 My favorite is known as insight meditation, also called Vipassana, so I'll speak to that. It's a Burmese technique, from a Theravada Buddhist tradition.
@@ -30,17 +30,17 @@ It includes three different practices, each with slightly different aims: concen
 ### Mental Garbage Collection
 About the title, meditation as garbage collection for your mind--
 
-Throughout the day, we're accumulating mental knots. Maybe we took offense at something someone said, or we're hung up over a mistake we made, or we feel anxiety over an upcoming deadline. These things happen all day, every day, and end up distracting us from what's going on right here and now. It doesn't serve us anymore to be holding onto those old threads.
+Throughout the day, we're accumulating mental knots. Maybe we took offense at something someone said, we're hung up over a mistake we made, or we feel anxiety over an upcoming deadline. These things happen all day, every day, and end up distracting us from what's going on right here and now. It doesn't serve us anymore to be holding onto those old threads.
 
-I've found meditation a great way to clear out those mental memory leaks, & release some of that tension, making us much more effective at everything else we do.
+I've found meditation a great way to clear out those mental memory leaks & release some of that tension, making us much more effective at everything else we do.
 
 ### Getting Started
 1. **Comfortable position.**  
 Some people sit cross-legged, some sit in a chair. No strict rules, just sit comfortably. Sitting upright helps a lot.
 2. **Close your eyes.**  
-Just let them lightly rest. Really allows your mind to open up. Allows you to go much deeper without the visual distractions.
+Just let them lightly rest. Really allows your mind to open up, so you can go much deeper without the visual distractions.
 3. **Set a timer.**  
-No need to overthink it. I tell Siri: "Set a timer for 20 minutes". Picking some fixed time is super useful to allow you to let go of worrying about the time. (And even 60 seconds is better than nothing.)
+No need to overthink it. I tell Siri: "Set a timer for 20 minutes". Picking a fixed time is super useful to allow you to let go of worrying about timimg. (And even 60 seconds is better than nothing.)
 
 
 ### Highlights
@@ -48,7 +48,7 @@ A few qualities of meditation I'd like to highlight:
 
 It's **safe**. It's a way for us to gain awareness of our patterns, and move towards being at ease.
 
-It's **universal**. Anyone can do it, if they wish to learn. It's not reserved for certain classes of people, nor requires winning the genetic lottery or anything like that.
+It's **universal**. Anyone can do it, if they wish to learn. It's not reserved for certain classes of people, nor requires winning a genetic lottery or anything like that.
 
 It's **accessible**. We can practice mindfulness anytime, anywhere. On our commute, mid-conversation, sitting at the dinner table, even while listening to this talk.
 
@@ -64,9 +64,9 @@ It's **cheap**. It doesn't cost anything, really. For comparison, American pharm
 
 * ***"I really need to meditate more"***.
 
-  The opposite extreme. It's common to hear those who've found the benefit of meditation to comment on how they "don't do it as often as they should". Especially with our over-scheduled environment.
+  The opposite extreme. It's common to hear those who've found the benefit of meditation to comment that they "don't do it as often as they should".
 
-  But it's not something worth beating ourselves up over. When I do that, it just backfires. So let's not let meditating stress us out even further.
+  But it's not something worth beating ourselves up over. Whenever I do that, it just backfires. So let's not let meditating stress us out even further.
 
 ### Resources
 Find **partners**! Tell people that you're interested. In my experience, finding supportive company has been the best thing for my growth by far.
