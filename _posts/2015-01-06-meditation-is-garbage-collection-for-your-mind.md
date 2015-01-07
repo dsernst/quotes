@@ -7,7 +7,7 @@ tags: [meditation, presentation, Hack Reactor]
 
 Earlier tonight I gave a quick presentation on meditation at Hack Reactor. Here are the slides. Hope you enjoy!
 
-<iframe src="https://docs.google.com/presentation/embed?id=1HbRHxF8nNeHPGEOf2Af7S4lTJNtUzM6Rii4frlo0IFI&amp;start=false&amp;loop=false&amp;" frameborder="0" width="600" height="405"></iframe>
+<iframe src="https://docs.google.com/presentation/embed?id=1HbRHxF8nNeHPGEOf2Af7S4lTJNtUzM6Rii4frlo0IFI&amp;start=false&amp;loop=false&amp;" frameborder="0" width="600" height="405" allowfullscreen></iframe>
 
 ### Intro
 Hi everyone. Thank you for being here. My name's David Ernst. And I'll be presenting "Meditation is garbage collection for your mind".
