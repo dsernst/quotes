@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using `if` statements inside an array
-
 ---
 
 Have you ever wanted to conditionally load content into an array?  In the same place you instantiate the array?
@@ -14,9 +13,7 @@ But, Zach Lopez and I figured out a way to do this while building a chat client 
 
 Here's an example:
 
-  ```
-  code code code
-  ```
+`code code code`
 
 This was handy so we could keep all the code in one place, where it was being used, instead of conditionally adjusting the array with jQuery after the fact.
 

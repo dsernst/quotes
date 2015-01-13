@@ -1,9 +1,6 @@
 ---
 title: "Reverse in Chrome Dev Tools"
 layout: "post"
-author: 
-    name: "David Ernst"
-    url: "https://plus.google.com/108803078708042821188?rel=author"
 ---
 
 chrome dev tools Reverse
