@@ -37,7 +37,7 @@ quote: Horses for courses
 author:
 source: the Medium essay [Rust and Go](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95), by [Adam Jacob](https://twitter.com/adamhjk).
 > ##### So.. Rust or Go?
-> The pragmatic answer is ‘horses for courses’, I guess. 
+> The pragmatic answer is ‘horses for courses’, I guess.
 
 --
 
@@ -151,14 +151,14 @@ quote: The universe believes in you.
 author: Alexander Perry
 source:
 
--- 
+--
 
 title:
 quote: Every moment can be a moment of learning.
 author: Charlotte Silver
 source: Alexander Perry
 
--- 
+--
 
 title:
 quote: There's two types of people, those that think they're normal, and those who know there's no such thing.
@@ -219,3 +219,8 @@ quote: The journey of a thousand miles begins with a single step.
 author: Lao-tzu
 
 --
+
+quote: Nature does not hurry, yet everything is accomplished.
+author: Lao Tzu
+source: IFS February 4, 2015 email
+
