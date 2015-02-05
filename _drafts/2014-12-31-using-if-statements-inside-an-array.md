@@ -5,7 +5,7 @@ title: Using `if` statements inside an array
 
 Have you ever wanted to conditionally load content into an array?  In the same place you instantiate the array?
 
-Normally javascript won't let you do this.  
+Normally javascript won't let you do this.
 
 > Syntax error unexpected if
 
@@ -17,4 +17,4 @@ Here's an example:
 
 This was handy so we could keep all the code in one place, where it was being used, instead of conditionally adjusting the array with jQuery after the fact.
 
-One last caveat: The anonymous could return undefined, which would create a blank space in the array. This wasn't a problem for us, because we immediately called `join('')` on the array, but something to keep in mind.
+One last caveat: The anonymous function could return undefined, which would create a blank space in the array. This wasn't a problem for us, because we immediately called `join('')` on the array, but something to keep in mind.
