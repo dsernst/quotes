@@ -4,7 +4,7 @@ title: Bring Your Own Bash_Profile
 tags: [unix, programming, tips, bash]
 ---
 
-Inspired by [Josh Wyatt](https://github.com/joshWyatt)'s great Hack Reactor talk on Bash-Fu, I've been developing many of my own aliases to speed up my workflow.
+Inspired by [Josh Wyatt](https://github.com/joshWyatt)'s great Hack Reactor talk on Bash-Fu (check out [Wes' post](http://wes.is/2015/02/05/speeding-up-your-command-line-workflow/)), I've been developing many of my own aliases to speed up my workflow.
 
 But whenever I have to use the public workstations, I lose all my custom shortcuts.
 
