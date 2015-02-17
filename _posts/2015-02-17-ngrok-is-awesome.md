@@ -7,7 +7,7 @@ tags: [development, programming, ngrok, tips, web]
 
 One of my favorite new development tools is a free open-source command line tool called [ngrok](http://ngrok.com). I'll explain it to you:
 
-### Deployment's a bitch.
+## Deployment's a bitch.
 
 Developing locally has its challenges. But then everything gets much more difficult when you need to deploy your work to a server, whether to share with partners, for a demo, or for an external API to `POST` to.
 
@@ -17,9 +17,9 @@ On most pay-as-you-go server infrastructures -- AWS, Heroku, Azure, etc -- tryin
 
 Are you working with multiple backend developers at the same time? Then you need to watch out for conflicting changes before you push over each other, or each set up your own remote development machines.
 
-And if that wasn't already bad enough, trying to debug issues on these remote machines often feels like you're blindfolded. You might not have access to the remote machines's filesystem, or verbose server logs, or performance analytics, or whatever it might be. Arrrgh.
+And if that wasn't already bad enough, trying to debug issues on these remote machines often feels like you're blindfolded. You might not have access to the remote machines's filesystem, or verbose server logs, or performance analytics, or manually inspecting its databases, or whatever it might be. Arrrgh.
 
-### ngrok, Our Savior ###
+## ngrok, Our Savior
 
 Thankfully, you can greatly speed up your server development workflow with **[ngrok](http://ngrok.com)**.
 
@@ -33,10 +33,9 @@ from a terminal, and ngrok will create a unique new outside accessible url, e.g
 
 > http://29b35c15.ngrok.com -> 127.0.0.1:8080
 
-![ngrok sketch](https://ngrok.com/static/img/overview.png)
+<img src="https://ngrok.com/static/img/overview.png" alt="ngrok sketch" style="max-width: 75%;"/>
 
-
-### Free and Easy to Get Started ###
+## Free and Easy to Get Started
 
 And guess what: it's free to use, and very quick and easy to get started. If you're on OS X and already have [homebrew](http://brew.sh/), just:
 
@@ -45,7 +44,7 @@ And guess what: it's free to use, and very quick and easy to get started. If you
 See the [ngrok.com Download page](https://ngrok.com/download) for installation instructions on other platforms.
 
 
-### Other awesome features ###
+## Other awesome features ##
 
 #### Custom subdomains
 You can add a `-subdomain=foobar` flag when you run ngrok if you want to specify a particular address:
@@ -62,7 +61,11 @@ If you're trying to build out tricky requests and responses, check out the ngrok
 
 And you can inspect the request and response details each time you do this.
 
-### Thanks
+
+-----------------------
+
+
+## Thanks
 
 There are a bunch of other useful features, so I encourage you to check out the website to learn more: [ngrok.com](http://ngrok.com)
 
