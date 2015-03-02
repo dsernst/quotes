@@ -15,6 +15,7 @@ title: Conflux of Eternity
 quote:
 author: Thomas Carlyle
 source: Wikipedia
+more: Carlyle's expressive phrase for time, as in every moment of it a centre in which all the forces to and from eternity meet and unite, so that by no past and no future can we be brought nearer to Eternity than where we at any moment of Time are; the Present Time, the youngest born of Eternity, being the child and heir of all the Past times with their good and evil, and the parent of all the Future. By the import of which (see Matt. xvi. 27), it is accordingly the first and most sacred duty of every successive age, and especially the leaders of it, to know and lay to heart as the only link by which Eternity lays hold of it, and it of Eternity.
 
 --
 
@@ -36,8 +37,7 @@ title: Horses for Courses
 quote: Horses for courses
 author:
 source: the Medium essay [Rust and Go](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95), by [Adam Jacob](https://twitter.com/adamhjk).
-> ##### So.. Rust or Go?
-> The pragmatic answer is ‘horses for courses’, I guess.
+more: So.. Rust or Go? The pragmatic answer is ‘horses for courses’, I guess.
 
 --
 
@@ -113,8 +113,11 @@ source: Momentum 11/11/14
 
 title: What is Right
 quote: 'What is Right?', not 'Who is Right?'
-author: Genius company [ISMs philsophy](http://meta.genius.com/4126920)
+author: Genius.com [ISMs philsophy](http://meta.genius.com/4126920)
 source:
+more: Likewise, when Ilan or Tom (or anyone) stakes out a strong position, and even says “I think we should do x”, what they are REALLY saying is something more like “Here’s an idea for solving such-and-such problem. I think we should either do it, or, if you have a better idea, let’s talk about why it’s better and do it instead of my idea.”
+
+  Don’t worry about “rocking the boat” as you push for what you think is right – capsize the boat if that’s what you need to do to surface a problem.
 
 --
 
@@ -216,12 +219,12 @@ source: IFS, January 15 2015 email
 --
 
 quote: The journey of a thousand miles begins with a single step.
-author: Lao-tzu
+author: Lao-Tzu
 
 --
 
 quote: Nature does not hurry, yet everything is accomplished.
-author: Lao Tzu
+author: Lao-Tzu
 source: IFS February 4, 2015 email
 
 --
