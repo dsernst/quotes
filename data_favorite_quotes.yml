@@ -35,7 +35,6 @@ source: Momentum, Nov 10 2014
 
 title: Horses for Courses
 quote: Horses for courses
-author:
 source: the Medium essay [Rust and Go](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95), by [Adam Jacob](https://twitter.com/adamhjk).
 more: So.. Rust or Go? The pragmatic answer is ‘horses for courses’, I guess.
 
@@ -43,12 +42,9 @@ more: So.. Rust or Go? The pragmatic answer is ‘horses for courses’, I guess
 
 title: Planting Trees
 quote: The best time to plant a tree is 20 years ago. The second best time is today.
-author:
-source:
 
 --
 
-title:
 quote: It’s not just the choices you make. It’s the choices you don’t realize that you are making.
 author: Rhamni
 source: Article compiling 25 inspiration quotes from Reddit: http://thoughtcatalog.com/nico-lang/2013/08/25-unintentionally-profound-statements-that-will-change-your-life-today/
@@ -76,17 +72,12 @@ source: related by Jim Carrey in this video: https://www.youtube.com/watch?v=P77
 
 --
 
-title:
 quote: "Pain is temporary, regret lasts forever."
-author:
 source: From my 8th grade Lit class presentation where we picked a quotation to share.
 
 --
 
-title:
 quote: "The fastest way to learn if you can trust something is to trust it"
-author:
-source:
 
 --
 
@@ -106,7 +97,6 @@ source: used by Charlie Cross during the October 2014 roadtrip to San Francisco
 
 title: Wasted Time
 quote: Time you enjoy wasting is not wasted time.
-author:
 source: Momentum 11/11/14
 
 --
@@ -114,56 +104,42 @@ source: Momentum 11/11/14
 title: What is Right
 quote: 'What is Right?', not 'Who is Right?'
 author: Genius.com [ISMs philsophy](http://meta.genius.com/4126920)
-source:
 more: Likewise, when Ilan or Tom (or anyone) stakes out a strong position, and even says “I think we should do x”, what they are REALLY saying is something more like “Here’s an idea for solving such-and-such problem. I think we should either do it, or, if you have a better idea, let’s talk about why it’s better and do it instead of my idea.”
 
   Don’t worry about “rocking the boat” as you push for what you think is right – capsize the boat if that’s what you need to do to surface a problem.
 
 --
 
-title:
 quote: The kingdom of heaven is within you.
 author: Jesus of Nazareth
-source:
 
 --
 
-title:
 quote: Fortune favors the bold
-author:
 source: Latin class? Wikipedia? Trevor Worcester? No longer remember.
 
 --
 
-title:
 quote: "... yearn for the endless immensity of the sea"
 author: Antoine de Saint Euxpery
-source:
 
 --
 
-title:
 quote: All problems boil down to two types: not knowing what you want, & not knowing how to get it.
-author:
-source:
 
 --
 
-title:
 quote: The universe believes in you.
 author: Alexander Perry
-source:
 
 --
 
-title:
 quote: Every moment can be a moment of learning.
 author: Charlotte Silver
 source: Alexander Perry
 
 --
 
-title:
 quote: There's two types of people, those that think they're normal, and those who know there's no such thing.
 author: Will McAvoy
 source: watching The Newsroom
@@ -172,22 +148,16 @@ source: watching The Newsroom
 
 title: Talk is cheap.
 quote: Talk is cheap.
-author:
-source:
 
 --
 
-title:
 quote: What's the worst that could happen?
 author: Tim Ferris
-source:
 explanation: When on the fence about doing something daring or risk or unconventional, try asking "What's the worst that could happen?" as motivation.
 
 --
 
-title:
 quote: May the worst day of your future be better than the best day of your past.
-author:
 source: "Old Irish folk saying"
 explanation: sounds counter-intuitive, but makes sense when you think about it.
 
@@ -265,6 +235,6 @@ quote: When you see such beauty, what takes place? At that moment, the very maje
 author: J. Krishnamurti
 date: January 31, 1982
 source: http://www.jkrishnamurti.org/krishnamurti-teachings/view-daily-quote/20140519.php
+more: Look at something which you have seen which is actually marvellously beautiful: a statue, a poem, a lily in the pond, or a well-kept lawn. And when you see such a piece of beauty - no, no, when you see such, not piece - when you see such beauty what takes place? At that moment, the very majesty of a mountain makes you forget yourself. Right? Have you ever been in that position? When you have seen that you don't exist, only that grandeur exists. But a few seconds later or a minute later the whole cycle begins, the confusion, the chatter. So beauty is where you are not. Have you understood this? Do you understand, sir? Oh, what a crowd! The tragedy of it. Truth is where you are not. Beauty, love is where you are not. Because we are not capable to look at this extraordinary thing called truth.
 
 --
-
