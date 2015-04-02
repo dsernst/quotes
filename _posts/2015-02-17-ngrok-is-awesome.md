@@ -7,7 +7,7 @@ tags: [development, programming, ngrok, tips, web]
 
 One of my favorite new development tools is a free open-source command line tool called [ngrok](http://ngrok.com). I'll explain it to you:
 
-## Deployment's a bitch.
+## Deployment sucks.
 
 Developing locally has its challenges. But then everything gets much more difficult when you need to deploy your work to a server, whether to share with partners, for a demo, or for an external API to `POST` to.
 
