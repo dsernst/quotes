@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Learning to Surf
-categories: [inspiration, repost, Seth Godin, courage]
-
+tags: [inspiration, repost, Seth Godin, courage]
 ---
 
 Another repost, this time because I found it such an interesting way of looking at things.
