@@ -10,7 +10,7 @@ If you spend a lot of time in Asana, you might want a standalone app for it in y
 
 This is pretty easy, and takes only a minute or two to set up.
 
-All you need to do is use the [free Fluid app](http://fluidapp.com/) to package the web app as a desktop app.
+All you need to do is use the free [Fluid app](http://fluidapp.com/) to package the web app as a desktop app.
 
 After you've downloaded and installed Fluid, run it and the "**Create a Fluid App**" window should appear.
 
