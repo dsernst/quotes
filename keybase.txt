@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/dsernst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dsernst.com
+  * I am dsernst (https://keybase.io/dsernst) on keybase.
+  * I have a public key with fingerprint 257F 5B97 C1C5 F97A 7071  13D2 42B1 F2E6 A8B9 F8C0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.5"
+        },
+        "key": {
+            "fingerprint": "257f5b97c1c5f97a707113d242b1f2e6a8b9f8c0",
+            "host": "keybase.io",
+            "key_id": "42B1F2E6A8B9F8C0",
+            "uid": "7b5b00eccee246362dba1d3b6b5b8319",
+            "username": "dsernst"
+        },
+        "merkle_root": {
+            "ctime": 1430441103,
+            "hash": "95c88fc53a64ebd890e73e2d9883836361927a78179e782b901596e1fce090c43c80ca315148371121ae4111dfc34e950359e3fae9378471cf996eab87b87e80",
+            "seqno": 213574
+        },
+        "service": {
+            "hostname": "dsernst.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430441241,
+    "expire_in": 157680000,
+    "prev": "5ec57d3883fcbeae051c8244bf8be194ca48f91664350680267e65f32af9ecde",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVUntQVFUcXgQ3W18UPsjQ4DLMhsF6z31foCSQhw2YkzoqDiz3nnsuXGD3LrsL
+8hAfIAZkQ0NKUmhpBaYNCET2pLTRHkRpOrqO2mhjjhiavMImic5lbMoz54/z+B6/
+73fOKzP9TRa/hI6h6wc/vvulX2+/bFqT0BdWTsi6UkrElBOwQENOr7FySg5ExBD5
+qFSWPMim6aFOXUG2PE/ofUwUUYzcHk13YhRp420sURFlwA2yqjlzkNvl1gwtgmJ5
+lZVFHgLIqiIv8SQPAK1QDCUDlUKcJMiiKkASS+bqHu8DrsSkpl1T8ClDJYBkKol7
+VkgQk4VEA180ecHLrEySCEKEKIajOUqRJaDQMofPBRqIBtCD3PcjKcYS2+ByHcid
+X4Dsbl2fzAy9moEADE0yDAAkjQuSPLmYI7JQEFTI0hLHIFkRRBLxNKIUURBogcaW
+QKRwMAHwIuIFShZJwIocAipEpEhChoYCCSUasIARaJyeAhLCDkBRIc0gkSVpVkS0
+KiGR5gWGB1AVMV2SBR5PJBhRPajQqRMxFKBZnqkw9u5iDSKjbqNrD4azQd2BOS63
+7tWhXoAvcr1eV4yR2VvqMoAbkWz3oMOTGnZZcyr4yf7/pgBDH+wHxYAoApW4NDey
+awaC5TmBxMPwQcVYk0WQ5RUa90SFMpIQyQIoUAwjq4KMgMhAiRFUEXAcQ7Mk5lIc
+jzhWpSlJFRFU0H8pRVynlIMlPVqOU/IWuRFRUTslJMDkZzGZp04xPq3J8nDgvz+5
+8s9AU/XGXUH9C/1qp8nZywsf69xW01KwsmvVa/q4z//WyrcPbTG91W49UDjRWzXS
+Ts02bXCcDKu7fHxuv2vNZ1fSXdT0uGW91kRF+rHuYlLwoQNv+Jo33ek+GLrouUXj
+X4fvTllv6b7eP3xuRl9mW2bwX5fsY1vmNQwN36ueM2/O7Y7GD4N6Iiayt3+36YnI
+6sKAkBJLU+bvZmZ64A46tc06mvju86EvmG96461lF46css8km6qO5vfXLrM+Onip
+8hnqwuvpeQ1Xxn/IubQ+cGL1J2PjU9IXRP56vKPzvcyXzrZEf1r+0IovBjaObv/t
+TlvWzu6weP9bvtKLS0Yqh83Raz7iwuPe2TPy88C+4JLvow8IGe3JtryQ1cz5zRVb
+Gwcur/0pwnquzLdIX2vf/q2fNSJhqDFiyeIUU93VpDNF+7KWWifmluXO6smYtQsO
+R2onZrgvEzdOpXS6LGcOD0aV5R8Ff+yJbb/dtLShK37552NyydITBVTCuZWus9Fx
+vtlpnLkn5EjGLb84pbl2anf1N8EbjgV6T6xaGN26N2hBXcv8xcmlQ4lpaeuag3bO
+D2k7//eOLdzCKkuNp2r/V92OyvjNQa2x5/uezEL1T9+IfdFd/0isGT11bZv/6SWP
+57nmn/YB7eb+Y9ldr/KpKxbDM+sC7kbUvJz7y7XUk0VFux09zqultW8O7n2//t4H
+o63TtoZfz/4H
+=gb+Q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dsernst
+
+==================================================================
