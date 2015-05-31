@@ -10,4 +10,6 @@ You can see the code here: [http://github.com/dsernst/SpreadsheetAutoEmailer](ht
 
 I used it to send an email to 30 classmates from Hack Reactor. A lot of us haven't spoken in 3 months now, since the program ended. So it was really great to already be getting replies from some of them.
 
+![screenshot of sent emails](/images/programmatic-emails.jpg)
+
 This was a very useful script, and a great learning opportunity. It's super handy to know this technique is available again in the future.
