@@ -6,7 +6,7 @@ tags: [Google Spreadsheets, Spreadsheet, tips, howto]
 
 In Google Spreadsheets, you can refer to other cells relatively. Everyone knows about refering to cells with things like A1 or E6. And most people know how you can use the "Fill" function — dragging the lower right corner (or learn the keyboard shortcuts!) — to automatically generate the next cell in a relative way, so that `A4`, becomes `A5`, and `A6`, and so on.
 
-![screenshot of dragging bottom right corner to Fill]()
+![screenshot of dragging bottom right corner to Fill](/images/Google-Spreadsheet-Fill.png)
 
 But did you also know you can write a way to just directly refer to what spreadsheets interprets as "the cell right below me"? Or "right 3, down 2 from here"?
 
@@ -18,9 +18,9 @@ It's pretty easy. The R stands for "row"; the C is "column". If you want to refe
 
 Make sense?
 
-To use this in a spreadsheet, you need to wrap it in an `INDIRECT()` function call, because something. That INDIRECT function is used "to refer to cells indirectly, with strings". Its API looks like this:
+To use this in a spreadsheet, you need to wrap it in an [`INDIRECT()`](https://support.google.com/docs/answer/3093377?hl=en) function call, because something. That INDIRECT function is used "to refer to cells indirectly, with strings". Its API looks like this:
 
-![screenshot of INDIRECT() api]()
+![screenshot of INDIRECT() api](/images/indirect-api.png)
 
 You'll need to set that second parameter – "A1 Notation" – to false. It defaults to `TRUE`.
 
