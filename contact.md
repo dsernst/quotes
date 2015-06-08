@@ -10,3 +10,5 @@ title: Contact
 <i class="fa fa-github"></i> Follow [@dsernst on GitHub](https://github.com/dsernst).
 
 <i class="fa fa-linkedin-square"></i> Or find me [on LinkedIn](http://www.linkedin.com/pub/david-ernst/3b/37a/b5a/).
+
+<i class="fa fa-key"></i> And I'm [dsernst on Keybase](https://keybase.io/dsernst)— track me, or ask for an invite.
