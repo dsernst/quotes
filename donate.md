@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gifts
+published: false
 ---
 
 #### In the spirit of the [gift economy](https://www.youtube.com/watch?v=EEZkQv25uEs), I gratefully accept donations, and try to put them towards a good cause.
