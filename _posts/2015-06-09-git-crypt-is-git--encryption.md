@@ -25,3 +25,7 @@ Everyone on your team just needs a private key file to decrypt, which won’t be
 You can use a single shared `.key` file, but for even better security you'd want to just authorize GPG users the ability to unlock the repo's encrypted files.
 
 And if you need some discrepancy, you can add `.env.development` or even something like `.env.dsernst` to overwrite particular values for different environments.
+
+---------------------------------------------------
+
+Thanks to [Matt](https://twitter.com/drTomCatAn) for the fun playing with git-crypt!
