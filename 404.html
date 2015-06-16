@@ -9,3 +9,8 @@ permalink: 404.html
   <p class="lead">Sorry, can't find anything for that URL.</p>
   <p><a href="{{ site.baseurl }}">&#8626; Head back home</a>.</p>
 </div>
+<script>$.ajax({
+    url : 'http://dsernst-counter.herokuapp.com/view/' + encodeURIComponent(location.href),
+    xhrFields : { withCredentials: true }
+    //success : function (count) { alert(count) }
+});</script>
