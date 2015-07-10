@@ -5,7 +5,7 @@ tags: [development, programming, ngrok, tips, web]
 
 ---
 
-One of my favorite new development tools is a free open-source command line tool called [ngrok](http://ngrok.com). I'll explain it to you:
+One of my favorite development tools is a free open-source command line tool called [ngrok](http://ngrok.com). I'll explain it to you:
 
 ## Deployment sucks.
 
