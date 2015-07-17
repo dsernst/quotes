@@ -63,7 +63,7 @@ The goal here is to let your script know what data to replicate against. In our 
 
 <img src="/images/fruit-names-spreadsheet.png" alt="screenshot of Spreadsheet list of fruit names" style="max-width: 400px;">
 
-You can use my utility function to make grabbing this data really easy.
+You can use this utility function to make grabbing this data really easy.
 
 <script src="https://gist.github.com/dsernst/c63a06888ddd86da7869.js"></script>
 
@@ -107,19 +107,19 @@ function makeOurForm() {
 }
 {% endhighlight %}
 
-That's it. Google Apps Script is pretty straightforward. For the most part it's just Javascript, with lots of extra globals. And everything is synchronous, so it's very easy to reason about. The [Forms documation](https://developers.google.com/apps-script/reference/forms/form) covers tons of other methods, and overall the docs are pretty good! Feel free to ask if you have any questions.
+That's it. Google Apps Script is pretty straightforward. For the most part, it's just Javascript with extra globals. And everything is synchronous, so it's very easy to reason about. The [Forms documation](https://developers.google.com/apps-script/reference/forms/form) covers tons of other methods, and overall the docs are pretty good! Feel free to ask if you have any questions.
 
-By the way, in Apps Script you use `Logger.log` instead of `console.log`. Press `Cmd + Enter` to view the logs from the editor.
+<!-- By the way, in Apps Script you use `Logger.log` instead of `console.log`. Press `Cmd + Enter` to view the logs from the editor. -->
 
 --------------------
 
 ### Finishing up
 
-Now to make it work, just run the `makeOurForm()` function!
+Now to make it work, just run the `makeOurForm()` function! You'll be asked to approve some permissions the first time it runs.
 
 ![screenshot of running a function in Google Apps Script](/images/run-makeOurForm-script.png)
 
-And then you'll have a new Google Form in your Drive. You'll be asked to approve some permissions the first time it runs.
+And then you'll have a new Google Form in your Drive.
 
 You can check out the [example Form we made here](https://docs.google.com/forms/d/1-PnU69dg82HuosYq6tqRbX-SNg7ujh7MhT4roHvj68s/viewform?usp=send_form), and here's [the Spreadsheet we used](https://docs.google.com/spreadsheets/d/1JmuXvn65pSV_F6uuY1_tb16cba9ltW29ZCbIUuNPmtk/edit?usp=sharing). To view the Apps Script code, open the Spreadsheet, then do **File > Make a copy...**, and then **Tools > Script Editor**.
 

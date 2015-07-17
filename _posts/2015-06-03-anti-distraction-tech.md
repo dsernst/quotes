@@ -2,7 +2,6 @@
 layout: post
 title: Anti-Distraction Tech
 tags: [tips, awareness, tech, extensions, mindfulness]
-published: false
 ---
 
 Some of my favorite tools are about dampening the typical day-to-day effect of web services trying to steal all of our attention.
