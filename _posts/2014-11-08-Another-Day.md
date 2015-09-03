@@ -45,7 +45,7 @@ And instead I find myself:
 * thinking about working deeper with [Beeminder](http://beeminder.com), or working on things like [Folderminder](https://github.com/dsernst/folderminder)
 * trying to contribute to [Squirt.io](http://squirt.io)
 * trying to read more books, like [*Sacred Economics*](http://sacred-economics.com) or its antithesis, *Atlas Shrugged*
-* watching these 10 hours of [JS lectures by Douglas Crockford](http://yuiblog.com/crockford/)
+* watching these 10 hours of [JS lectures by Douglas Crockford](http://yuiblog.com/blog/2010/02/03/video-crockonjs-1/)
 * reading the [LessWrong major sequences](http://wiki.lesswrong.com/wiki/Sequences)
 * wanting to go visit old friends in Austin
 
