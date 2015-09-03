@@ -60,13 +60,15 @@ Also add `mocha` as a `devDependency`, so that it gets installed whenever a user
 $ npm install mocha --save-dev
 ~~~
 
-### Setup TravisCI
+### Setup TravisCI for automatic builds
 
 ![Travis setup image](/images/travis-ci-setup.png)
 
-If your repo is public, [TravisCI](https://travis-ci.org/) can run your tests automatically, including pull-requests, for free. Here's what you'll need to do:
+[TravisCI](https://travis-ci.org/) can run your tests automatically and notify you of any problems. This even works for pull-requests. And it's free if your repo is public. 
 
-1. Log in to Travis and ["flick the switch on" for your repo](https://travis-ci.org/profile/).
+Here's what you'll need to do:
+
+1. Log in to Travis and [flick your repo's switch on](https://travis-ci.org/profile/).
 2. Add a basic [`.travis.yml` file](https://github.com/dsernst/pythagorean-triples/blob/54fad4014d02f4b2adec0cd525a89f8c76fb3868/.travis.yml) for your project:
   
 ~~~
@@ -81,7 +83,7 @@ node_js:
 
 If you set up the `npm test` command in the previous step, Travis will use this automatically. 
 
-### Setup code coverage with Istanbul
+### Get code coverage with Istanbul
 
 There are many tools to analyze code coverage, but I find [`istanbul`](https://gotwarlost.github.io/istanbul/) simple and effective, so that's what we'll use here.
 
@@ -91,7 +93,7 @@ First, install istanbul as a `devDependency`:
 $ npm install istanbul --save-dev
 ~~~
 
-We'll follow the same pattern as before and make an [`npm runscript`](https://docs.npmjs.com/cli/run-script) for our code coverage. Here's the script we'll add:
+We'll follow the same pattern as before and make an [npm run-script](https://docs.npmjs.com/cli/run-script) for our code coverage. Here's the script we'll add:
 
 ~~~
 "cover": "istanbul cover _mocha"
@@ -106,13 +108,13 @@ So now your `package.json` should have both scripts:
   },
 ~~~
 
-There's just one bit of weirdness there: using `_mocha` instead of `mocha`. This is because the `mocha` command creates a child process, so `istanbul` throws this error:
+There's one bit of weirdness here: use `_mocha` instead of `mocha`. This is because the `mocha` command runs in a child process, causing istanbul to throw this error:
 
 ~~~
 No coverage information was collected, exit without writing coverage information
 ~~~
 
-But you can use `_mocha` to run it directly, without a child process, which gives us the coverage information we want:
+But if you use `_mocha` instead, your tests will be run without a child process, giving us the coverage information we want:
 
 ![screenshot of coverage](/images/istanbul-coverage.png)
 
@@ -124,24 +126,27 @@ $ npm run cover
 
 ### Adding automatic coverage testing with Coveralls
 
-1. Create an account on [Coveralls.io](http://coveralls.io).
-2. Add your repository.
-3. Add these two new devDependencies:
+Coveralls is another free service for public repos. It complements Travis' testing by publicly reporting your code coverage metrics. It can also be configured to notify you if the coverage goes significantly up or down.
+
+Here's what you'll need to do:
+
+1. Create an account on [Coveralls.io](http://coveralls.io) and add your repository.
+2. Add these two new devDependencies:
 
 ~~~
-$ npm install coveralls mocha-lcov-reporter --save-dev
+$ npm install --save-dev coveralls mocha-lcov-reporter
 ~~~
 
-<ol start="4">
-  <li> Add this new line to your package.json "scripts":</li>
+<ol start="3">
+  <li> Add this line to your package.json "scripts", which pipes istanbul's report over to Coveralls:</li>
 </ol>
 
 ~~~
-"coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+"coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
 ~~~
 
-<ol start="5">
-  <li>Then add this to your .travis.yml:</li>
+<ol start="4">
+  <li>Then add this to your .travis.yml, will tells Travis to update Coveralls automatically after a successful build:</li>
 </ol>
 
 ~~~
@@ -149,16 +154,16 @@ after_success:
 - npm run coveralls
 ~~~
 
-<ol start="6">
-  <li>Push a new build.</li>
+<ol start="5">
+  <li>Push a new build to GitHub to see it in action.</li>
 </ol>
 
-Now, whenever a build passes on Travis, it will send code coverage metrics to Coveralls. Coveralls can be configured to notify you if the coverage changes up or down significantly.
+Now, whenever a build passes on Travis, it will send updated code coverage metrics to Coveralls.
 
-You can also use this `npm run coveralls` command to update Coveralls locally, but you'll have to add a `.coveralls.yml` file to your project with your repo key. Be sure to `.gitignore` it to keep it confidential.
+You can also use the `$ npm run coveralls` command to update Coveralls locally, but you'll first need to [add a `.coveralls.yml` file](https://github.com/nickmerwin/node-coveralls#running-locally) to your project with your repo key. Be sure to `.gitignore` it to keep it confidential.
 
 ### Success
 
 Now that you've set this all up, you can add badges for your [build status](http://docs.travis-ci.com/user/status-images/) and code coverage to your readme, so that your project's audience know it's being responsibly maintained.
 
-[![image of readme badges](/images/test-badges.png)](https://github.com/dsernst/pythagorean-triples/blob/4011972252c963a576edb89fe821a8c675ee9c85/readme.md)
+![image of readme badges](/images/test-badges.png)
