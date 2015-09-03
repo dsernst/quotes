@@ -41,7 +41,7 @@ The above are my notes from a quick presentation I gave on this subject. And her
 - You can use it to host a blog: [https://github.com/dsernst/dsernst.github.io/](https://github.com/dsernst/dsernst.github.io/)
 - Which can then be accessed from here [http://dsernst.com/ ](http://dsernst.com/)
 - Here's how you set a custom domain: [https://github.com/dsernst/dsernst.github.io/blob/master/CNAME](https://github.com/dsernst/dsernst.github.io/blob/master/CNAME)
-- More instructions if you need them for a custom domain: [https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/](https://help.github.com/articles/tips-- for-configuring-an-a-record-with-your-dns-provider/)
+- More instructions if you need them for a custom domain: [https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/)
 - Github also has an Automatic Page Generator you might like
 - You can take projects you're working on from your local computer, e.g. [file:///Users/dsernst/Documents/2014-12-twittler/index.html](file:///Users/dsernst/Documents/2014-12-twittler/index.html)
 - Just push the code to Github [https://github.com/dsernst/twittler/](https://github.com/dsernst/twittler/)
