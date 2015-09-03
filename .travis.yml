@@ -9,5 +9,6 @@ install:
   - gem install jekyll
   - gem install RedCloth
   - gem install i18n
+  - gem install json
 script:
   - jekyll build
