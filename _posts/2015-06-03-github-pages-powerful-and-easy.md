@@ -47,7 +47,7 @@ The above are my notes from a quick presentation I gave on this subject. And her
 - Just push the code to Github [https://github.com/dsernst/twittler/](https://github.com/dsernst/twittler/)
 - Make a `gh-pages` branch, and now it's deployed [http://dsernst.com/twittler/](http://dsernst.com/twittler/) 404 ---> deployed
 - Here's another example, my Time Complexity Viewer: [http://dsernst.com/time-complexity-viewer/](http://dsernst.com/time-complexity-viewer/)
-- and the matching code (and its gh-pages branch): [https://github.com/dsernst/time-complexity-viewer/](https://github.- com/dsernst/time-complexity-viewer/)
+- and the matching code (and its gh-pages branch): [https://github.com/dsernst/time-complexity-viewer/](https://github.com/dsernst/time-complexity-viewer/)
 - Many projects use this to host documentation, like React: [https://facebook.github.io/react/docs/getting-started.html](https://facebook.github.io/react/docs/getting-started.html)
 - And Flux, and tons of other things: [https://facebook.github.io/flux/](https://facebook.github.io/flux/)
 - Here's an example of it hosting a game: [https://github.com/dsernst/watchout](https://github.com/dsernst/watchout) -> [dsernst.com/watchout](dsernst.com/watchout)
