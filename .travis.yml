@@ -8,6 +8,7 @@ env:
 install:
   - gem install jekyll
   - gem install html-proofer
+  - gem install RedCloth
 script:
   - jekyll build
   - htmlproof _site
