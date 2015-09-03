@@ -28,4 +28,4 @@ The first argument to `heapsPermute` should be an `array` of values to permute. 
 
 This algorithm runs in factorial time, and takes quite a while if you run it with an array longer than 10 items. For example, n = 7 took my computer about 1 second; n = 8 took around 7 seconds; n = 9 took over a minute to print the [362880 different permutations](https://www.google.com/search?q=9!).
 
-[Neil Lokare](http://www.neillokare.com/) and I needed this to create a Scrabble Solver, which takes a random grab bag of letters and finds all valid words.
+[Neil Lokare](https://github.com/nlokare) and I needed this to create a Scrabble Solver, which takes a random grab bag of letters and finds all valid words.
