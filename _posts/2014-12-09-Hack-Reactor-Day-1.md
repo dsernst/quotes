@@ -3,7 +3,7 @@ title: "Day 1 of Hack Reactor"
 layout: "post"
 ---
 
-Yesterday was my first day of [Hack Reactor](http://hackreactor.com). What an incredible day.
+Yesterday was my first day of [Hack Reactor](http://www.hackreactor.com). What an incredible day.
 
 It's with an awesome group of students, and really impressive instructors & staff.
 
