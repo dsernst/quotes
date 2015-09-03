@@ -10,5 +10,5 @@ install:
   - gem install html-proofer
   - bundle install
 script:
-  - jekyll build
+  - bundle exec jekyll build
   - htmlproof _site
