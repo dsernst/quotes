@@ -17,4 +17,4 @@ It's got some handy methods like:
 * `this.multiInsert(val1, val2, val3, val4...)` -- Insert multiple values, instead of invoking `this.insert()` manually for each value. Takes multiple arguments, as many as needed.
 * `this.printParents()` -- Like `this.print()`, but prints out `this.parent.values` of all nodes including and descending from `this`.
 
-And here's a [super useful visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html) of how B-Trees work.
+And here's a [super useful visualization](http://www.cs.usfca.edu/~galles/visualization/BTree.html) of how B-Trees work.
