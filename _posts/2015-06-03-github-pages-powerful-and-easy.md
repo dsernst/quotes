@@ -51,4 +51,4 @@ The above are my notes from a quick presentation I gave on this subject. And her
 - Many projects use this to host documentation, like React: [https://facebook.github.io/react/docs/getting-started.html](https://facebook.github.io/react/docs/getting-started.html)
 - And Flux, and tons of other things: [https://facebook.github.io/flux/](https://facebook.github.io/flux/)
 - Here's an example of it hosting a game: [https://github.com/dsernst/watchout](https://github.com/dsernst/watchout) -> [dsernst.com/watchout](dsernst.com/watchout)
-- And here's an example of using GitHub to host a bash script: [https://raw.githubusercontent.com/dsernst/dotfiles/master/GaiaLovesYou.sh](https://raw.githubusercontent.- com/dsernst/dotfiles/master/GaiaLovesYou.sh)
+- And here's an example of using GitHub to host a bash script: [https://raw.githubusercontent.com/dsernst/dotfiles/master/GaiaLovesYou.sh](https://raw.githubusercontent.com/dsernst/dotfiles/master/GaiaLovesYou.sh)
