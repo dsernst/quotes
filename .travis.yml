@@ -7,9 +7,7 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 install:
   - gem install jekyll
-  - gem install html-proofer
   - gem install RedCloth
   - gem install i18n
 script:
   - jekyll build
-  - htmlproof _site
