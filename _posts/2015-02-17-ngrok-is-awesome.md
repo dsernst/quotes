@@ -25,7 +25,7 @@ Thankfully, you can greatly speed up your server development workflow with **[ng
 
 It only takes about 60 seconds to learn how to use it, but saves a tremendous amount of time.
 
-The magic of ngrok is that it opens up a "reverse proxy" from the outside world onto any port of your machine. As an example, if you're doing local server development, set to listen on [http://localhost:8080](http://localhost:8080), all you need to do is run
+The magic of ngrok is that it opens up a "reverse proxy" from the outside world onto any port of your machine. As an example, if you're doing local server development, set to listen on `http://localhost:8080`, all you need to do is run
 
 `ngrok 8080`
 
@@ -55,7 +55,7 @@ You can add a `-subdomain=foobar` flag when you run ngrok if you want to specify
 SSL connections work out of the box, no configuration needed. Just change the protocol from `http` to `https` when you type your address into your browser.
 
 #### Request Replay
-If you're trying to build out tricky requests and responses, check out the ngrok Web Interface ([http://localhost:4040](http://localhost:4040) while ngrok is running) and try out the Replay feature to automatically repeat any incoming request, instead of needing to repeatedly `curl` or use `$.ajax` or anything like that.
+If you're trying to build out tricky requests and responses, check out the ngrok Web Interface (`http://localhost:4040` while ngrok is running) and try out the Replay feature to automatically repeat any incoming request, instead of needing to repeatedly `curl` or use `$.ajax` or anything like that.
 
 <img src="/images/ngrok-replay.png" alt="ngrok-replay-screenshot" style="width: 600px;"/>
 
