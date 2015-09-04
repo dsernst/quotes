@@ -4,7 +4,7 @@ title: Software Engineering Power Tools
 tags: [talks, software, tips, Hack Reactor]
 ---
 
-Here are my notes from last night's After Hours talk at [Hack Reactor](http://hackreactor.com). It was a lot of fun— thanks everyone who was able to make it!
+Here are my notes from last night's After Hours talk at [Hack Reactor](http://www.hackreactor.com). It was a lot of fun— thanks everyone who was able to make it!
 
 ---------------------
 
