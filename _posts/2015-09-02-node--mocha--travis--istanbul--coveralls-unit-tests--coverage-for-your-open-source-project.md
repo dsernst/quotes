@@ -34,7 +34,7 @@ $ mocha
 
 ### Write your tests
 
-`Mocha` exposes new globals — `define()` and `it()` — to group tests together.
+`Mocha` exposes new globals — `describe()` and `it()` — to group tests together.
 
 To keep dependencies down, you can use Node's built in [assert module](https://nodejs.org/api/assert.html).
 
