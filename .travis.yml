@@ -11,4 +11,4 @@ install:
   - bundle install
 script:
   - bundle exec jekyll build
-  - travis_wait htmlproof _site --empty-alt-ignore
+  - travis_wait htmlproof _site --alt-ignore '/.*/'
