@@ -6,6 +6,7 @@ body {
 body div {
   font-size: 200%;
   font-family: sans-serif;
+  line-height: 140%;
   padding: 10% 12%;
   text-align: right;
 }
