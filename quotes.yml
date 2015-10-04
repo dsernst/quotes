@@ -60,7 +60,7 @@
   quote: "'What is Right?', not 'Who is Right?'"
   author: Genius.com ISMs philsophy
   author_url: http://meta.genius.com/4126920
-  more: >
+  more: |
     Likewise, when Ilan or Tom (or anyone) stakes out a strong position, and even says 'I think we should do x', what they are REALLY saying is something more like 'Here's an idea for solving such-and-such problem. I think we should either do it, or, if you have a better idea, let's talk about why it's better and do it instead of my idea.'
     Don't worry about 'rocking the boat' as you push for what you think is right – capsize the boat if that's what you need to do to surface a problem.
 -
@@ -173,7 +173,7 @@
   quote: This is your life. Do what you love, and do it often.
   author: Holstee Manifesto
   source: Momentum New Tab Page, March 25, 2015
-  more: >
+  more: |
     This is your life, do what you love, and do it often.
     If you don’t like something, change it.
     If you don’t like your job, quit.
@@ -198,9 +198,11 @@
   author: Lao Zhu
   source: some inspirational picture on Facebook
 -
-  quote: >
+  quote: |
     It took thousands of years of human civilisation before we got relatively benign governments. Power structures are not inherently benign; they must constantly be pressured to prevent malignant people using them to leverage their actions.
+
     A non-authoritarian government is an historical anomaly. It's a ball balanced on top of a hill, pushed there by the deaths of millions, and kept there by the vigilance of those who care.
+
     Please start caring.
   author: barrkel
   author_url: https://news.ycombinator.com/user?id=barrkel
@@ -209,7 +211,7 @@
   quote: Hope is fuel, it moves us forward and it amplifies our best work.
   author: Seth Godin
   source: Seth's blog post 'Hope and Expectation' from April 13, 2015 http://sethgodin.typepad.com/seths_blog/2015/04/hope-and-expectation.html
-  more: >
+  more: |
     Hope is fuel, it moves us forward and it amplifies our best work.
     Expectation is the killer of joy, the shortest route to disappointment. When we *expect* that something will happen, we can't help but be let down...
 -
