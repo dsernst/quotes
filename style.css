@@ -1,10 +1,17 @@
 body {
   font-size: 200%;
   font-family: sans-serif;
-  text-align: center;
 }
 
 div {
-  max-width: 75%;
-  padding-top: 10%;
+  padding: 10% 12%;
+  text-align: right;
+}
+
+blockquote {
+  text-align: left;
+}
+
+cite {
+  font-size: 80%;
 }
