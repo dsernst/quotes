@@ -11,5 +11,14 @@
   "dependencies": {
     "lodash": "^3.10.1",
     "yamljs": "^0.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsernst/quotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dsernst/quotes/issues"
+  },
+  "homepage": "https://github.com/dsernst/quotes#readme"
 }
