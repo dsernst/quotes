@@ -1,6 +1,6 @@
 {
   "name": "quotes",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Display one of my favorite quotes",
   "main": "index.html",
   "scripts": {
