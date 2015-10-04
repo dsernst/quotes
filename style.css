@@ -1,0 +1,10 @@
+body {
+  font-size: 200%;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div {
+  max-width: 75%;
+  padding-top: 10%;
+}
