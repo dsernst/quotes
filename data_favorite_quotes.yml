@@ -1,456 +1,314 @@
 # Favorite Quotes data
-
 ## Intention: To display a random ticker of some of my favorite quotes.
 
---
-
-title: Charity
-quote: A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog.
-author: Jack London
-source: IFS Nov 11, 2014 email
-
---
-
-title: Conflux of Eternity
-quote:
-author: Thomas Carlyle
-source: Wikipedia
-more: Carlyle's expressive phrase for time, as in every moment of it a centre in which all the forces to and from eternity meet and unite, so that by no past and no future can we be brought nearer to Eternity than where we at any moment of Time are; the Present Time, the youngest born of Eternity, being the child and heir of all the Past times with their good and evil, and the parent of all the Future. By the import of which (see Matt. xvi. 27), it is accordingly the first and most sacred duty of every successive age, and especially the leaders of it, to know and lay to heart as the only link by which Eternity lays hold of it, and it of Eternity.
-
---
-
-title: Crash Inspiration
-quote: Kids come up to me all the time and say, 'Once I was going through a really bad time, and I saw you crash and get up, and it inspired me.'
-author: Evel Knievel
-source: IFS 11/10/14 email
-
---
-
-title: Dreams
-quote: So many of our dreams at first seem impossible. Then they seem improbable. And then, when we summon the will, they soon become inevitable.
-author: Nelson Mandela
-source: Momentum, Nov 10 2014
-
---
-
-title: Horses for Courses
-quote: Horses for courses
-source: the Medium essay [Rust and Go](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95), by [Adam Jacob](https://twitter.com/adamhjk).
-more: So.. Rust or Go? The pragmatic answer is ‘horses for courses’, I guess.
-
---
-
-title: Planting Trees
-quote: The best time to plant a tree is 20 years ago. The second best time is today.
-
---
-
-quote: It’s not just the choices you make. It’s the choices you don’t realize that you are making.
-author: Rhamni
-source: Article compiling 25 inspiration quotes from Reddit: http://thoughtcatalog.com/nico-lang/2013/08/25-unintentionally-profound-statements-that-will-change-your-life-today/
-
---
-
-title: Planning Inspiration
-quote: We must let go of the life we have planned, so as to accept the one that is waiting for us.
-author: Joseph Campbell
-source: [IFS](http://www.inspiration-for-success.com/daily-inspirational-quotes-2014/) 7/16/14 email
-
---
-
-title: Showing off
-quote: Showing off is the fool's idea of glory.
-author: Bruce Lee
-source: [Momentum](http://dsernst.com/2014/08/21/New-Tab-Page/) Nov 8, 2014
-
---
-
-title: Spirituality is about relieving suffering
-quote: All spirituality is about relieving suffering.
-author: Siddhartha Gautama
-source: related by Jim Carrey in this video: https://www.youtube.com/watch?v=P779XJEq6vg&t=700
-
---
-
-quote: "Pain is temporary, regret lasts forever."
-source: From my 8th grade Lit class presentation where we picked a quotation to share.
-
---
-
-quote: "The fastest way to learn if you can trust something is to trust it"
-
---
-
-title: Success
-quote: Success isn't about being the best. It's about always getting better.
-author: Behance 99U
-source: Momentum 11/23/2014
-
---
-
-title: Truth
-quote: Truth is what works.
-author: William James
-source: used by Charlie Cross during the October 2014 roadtrip to San Francisco
-
---
-
-title: Wasted Time
-quote: Time you enjoy wasting is not wasted time.
-source: Momentum 11/11/14
-
---
-
-title: What is Right
-quote: 'What is Right?', not 'Who is Right?'
-author: Genius.com [ISMs philsophy](http://meta.genius.com/4126920)
-more: Likewise, when Ilan or Tom (or anyone) stakes out a strong position, and even says “I think we should do x”, what they are REALLY saying is something more like “Here’s an idea for solving such-and-such problem. I think we should either do it, or, if you have a better idea, let’s talk about why it’s better and do it instead of my idea.”
-
-  Don’t worry about “rocking the boat” as you push for what you think is right – capsize the boat if that’s what you need to do to surface a problem.
-
---
-
-quote: The kingdom of heaven is within you.
-author: Jesus of Nazareth
-
---
-
-quote: Fortune favors the bold
-source: Latin class? Wikipedia? Trevor Worcester? No longer remember.
-
---
-
-quote: "... yearn for the endless immensity of the sea"
-author: Antoine de Saint Euxpery
-
---
-
-quote: All problems boil down to two types: not knowing what you want, & not knowing how to get it.
-
---
-
-quote: The universe believes in you.
-author: Alexander Perry
-
---
-
-quote: Every moment can be a moment of learning.
-author: Charlotte Silver
-source: Alexander Perry
-
---
-
-quote: There's two types of people, those that think they're normal, and those who know there's no such thing.
-author: Will McAvoy
-source: watching The Newsroom
-
---
-
-title: Talk is cheap.
-quote: Talk is cheap.
-
---
-
-quote: What's the worst that could happen?
-author: Tim Ferris
-explanation: When on the fence about doing something daring or risk or unconventional, try asking "What's the worst that could happen?" as motivation.
-
---
-
-quote: May the worst day of your future be better than the best day of your past.
-source: "Old Irish folk saying"
-explanation: sounds counter-intuitive, but makes sense when you think about it.
-
---
-
-quote: If they can do it, so can you.
-source: Momentum January 3, 2015
-explanation: Totally agree with this sentiment. This is how I try to approach a lot of goals in life. Unless it's something with a strict physical barrier -- e.g. being an NFL lineback -- if someone else could do it, why couldnt I? And the same applies to all of us.
-
---
-
-quote: We know only too well that what we are doing is nothing more than a drop in the ocean. But if the drop were not there, the ocean would be missing something.
-author: Mother Teresa
-source: IFS, January 6 2015 email
-explanation: "So just know you are valuable." -- Guus
-
---
-
-quote: Fear keeps us focused on the past or worried about the future. If we can acknowledge our fear, we can realize that right now we are okay. Right now, today, we are still alive, and our bodies are working marvelously. Our eyes can still see the beautiful sky. Our ears can still hear the voices of our loved ones.
-author: Thich Nhat Hanh
-source: IFS, January 13 2015 email
-
---
-
-quote: He that can have patience can have what he will.
-author: Benjamin Franklin
-source: IFS, January 15 2015 email
-
---
-
-quote: The journey of a thousand miles begins with a single step.
-author: Lao-Tzu
-
---
-
-quote: Nature does not hurry, yet everything is accomplished.
-author: Lao-Tzu
-source: IFS February 4, 2015 email
-
---
-
-quote: Power concedes nothing without a demand. It never did, and it never will. Find out just what people will submit to, and you have found out the exact amount of injustice and wrong which will be imposed upon them; and these will continue until they are resisted with either words or blows, or with both. The limits of tyrants are prescribed by the endurance of those whom they oppress.
-author: Frederick Douglass
-date: August 4, 1857
-source: Eric S. Raymond email signature (via "Defending GCC considered futile")
-
---
-
-quote: Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.
-author: Pope John Paul II
-source: Neil Postman's Five Things We Need to Know About Technological Change
-
---
-
-quote: Life is a team sport.
-author: Hack Reactor
-source: "Remind the student not to compare themselves against other students. Remind them the program is already highly selective. Instead, measure yourself honestly against the curriculum. What are your weak points? How can you shore them up? Ask for help! From other students, and from instructors. Life is a team sport; so is the program." -- Hack Reactor Instructor docs
-
---
-
-quote: For just one second, look at your life and see how perfect it is. Stop looking for the next secret door that is going to lead you to your real life. Stop waiting. This is it: there's nothing else. It's here, and you'd better decide to enjoy it or you're going to be miserable wherever you go, for the rest of your life, forever.
-author: Lev Grossman
-source: IFS March 11, 2015 'Reality Inspiration' email
-
-
---
-
-quote: Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.
-author: Hal Borland
-source: IFS March 15, 2015 'P Inspiration' email
-
---
-
-quote: When you see such beauty, what takes place? At that moment, the very majesty of a mountain makes you forget yourself. Right? Have you ever been in that position? When you have seen that you don't exist, only that grandeur exists.
-author: J. Krishnamurti
-date: January 31, 1982
-source: http://www.jkrishnamurti.org/krishnamurti-teachings/view-daily-quote/20140519.php
-more: Look at something which you have seen which is actually marvellously beautiful: a statue, a poem, a lily in the pond, or a well-kept lawn. And when you see such a piece of beauty - no, no, when you see such, not piece - when you see such beauty what takes place? At that moment, the very majesty of a mountain makes you forget yourself. Right? Have you ever been in that position? When you have seen that you don't exist, only that grandeur exists. But a few seconds later or a minute later the whole cycle begins, the confusion, the chatter. So beauty is where you are not. Have you understood this? Do you understand, sir? Oh, what a crowd! The tragedy of it. Truth is where you are not. Beauty, love is where you are not. Because we are not capable to look at this extraordinary thing called truth.
-
---
-
-quote: For every complex problem there is an answer that is clear, simple, and wrong.
-author: H. L. Mencken
-source: via Ribbon Farm post on legibility, 1st comment: http://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#comment-5175
-
---
-
-quote: There are far, far better things ahead than any we leave behind.
-author: C.S. Lewis
-source: Luis Guzman's Hack Reactor bio
-
---
-
-quote: Twenty years from now, you will be more disappointed by the things that you didn't do than by the things that you did do.
-author: Mark Twain
-source: Stephanie Uniacke's Hack Reactor bio
-
---
-
-quote: There is only one good, knowledge, and one evil, ignorance.
-date: 5th century BC
-author: Socrates
-source: Civilization v
-explanation: It is a problem that Socrates has been lost in modern culture. Physicists as an ethical authority... General misunderstanding of what we should be doing.
-
---
-
-quote: You can’t stop the waves, but you can learn to surf.
-author: Jon Kabat-Zinn
-source: IFS March 19, 2015 'Surf Inspiration' email
-
---
-
-quote: This is your life. Do what you love, and do it often.
-author: Holstee Manifesto
-source: Momentum New Tab Page, March 25, 2015
-more: This is your life, do what you love, and do it often.
-If you don’t like something, change it.
-If you don’t like your job, quit.
-If you don’t have enough time, stop watching tv.
-If you are looking for the love of your life, stop; they will be waiting for you when you start doing things you love.
-Stop over analyzing, life is simple.
-
-All emotions are beautiful, when you eat, appreciate every last bite.
-Open your mind, arms, and heart to new things and people, we are united in our differences.
-Ask the next person you see what their passion is, and share your inspiring dream with them.
-Travel often; getting lost will help you find yourself.
-
-Some opportunities only come once, seize them.
-life is about the people you meet, and the things you create with them so go out and start creating.
-Life is short. Live your dream and share your passion.
-
---
-
-quote: I can sum up life in just three words: 'It goes on'.
-author: Robert Frost ?
-source: Writer's Almanac March 26, 2015
-
---
-
-quote: If you're depressed, you're living in the past. If you're anxious, you're living in the future. If you're at peace, you're living in the present.
-author: Lao Zhu
-source: some inspirational picture on Facebook
-
---
-
-quote: It took thousands of years of human civilisation before we got relatively benign governments. Power structures are not inherently benign; they must constantly be pressured to prevent malignant people using them to leverage their actions.
-A non-authoritarian government is an historical anomaly. It's a ball balanced on top of a hill, pushed there by the deaths of millions, and kept there by the vigilance of those who care.
-Please start caring.
-author: barrkel https://news.ycombinator.com/user?id=barrkel
-source: Hacker News post on 1984 MiniTruth reference in NSA backdoor of Lotus Notes: https://news.ycombinator.com/item?id=5846189
-
---
-
-quote: Hope is fuel, it moves us forward and it amplifies our best work.
-author: Seth Godin
-source: Seth's blog post 'Hope and Expectation' from April 13, 2015 http://sethgodin.typepad.com/seths_blog/2015/04/hope-and-expectation.html
-more: Hope is fuel, it moves us forward and it amplifies our best work.
-Expectation is the killer of joy, the shortest route to disappointment. When we *expect* that something will happen, we can't help but be let down...
-
---
-
-quote: Good judgment comes from experience. Experience comes from bad judgment.
-author: Sramana Mitra
-source: http://www.sramanamitra.com/2015/03/11/the-second-key-lesson-from-ellen-pao-vs-kleiner-perkins/
-more: Here’s a wonderful saying that a friend of mine shared recently: “Good judgment comes from experience. Experience comes from bad judgment.”
-
---
-
-quote: The most precious inheritance that parents can give their children is their own happiness.
-author: Thich Nhat Hanh
-source: http://www.brainpickings.org/2015/03/31/how-to-love-thich-nhat-hanh/
-more: "If our parents didn’t love and understand each other, how are we to know what love looks like? ... The most precious inheritance that parents can give their children is their own happiness. Our parents may be able to leave us money, houses, and land, but they may not be happy people. If we have happy parents, we have received the richest inheritance of all."
-
---
-
-quote: Be patient. Your future will soon come to you and lie down at your feet like a dog who knows and loves you no matter what you are.
-author: Kurt Vonnegut
-source: From the introduction to the 25th Anniversary Edition of Slaughterhouse Five
-more: Well worth reading the opening page in full... A reflection on events described in the book and aging.
-
---
-
-quote: The future belongs to those who believe in the beauty of their dreams.
-author: Eleanor Roosevelt
-source: IFS 'Unknown Inspiration' email Sun May 10 2015
-
---
-
-quote: Do one thing every day that scares you.
-author: Eleanor Roosevelt
-source: Momentum New Tab Page 5/11/2015
-
---
-
-quote: Those who read own the world, and those who watch television lose it.
-author: Werner Herzog
-source: via Medium: Why Can't We Read Anymore https://medium.com/@hughmcguire/why-can-t-we-read-anymore-503c38c131fe
-
---
-
-quote: It’s not that I’m so smart, it’s just that I stay with problems longer.
-author: Albert Einstein
-source: IFS 'Solution Inspiration' email Wed May 13 2015
-
---
-
-quote: I beseech you to treasure up in your hearts these my parting words: Be ashamed to die until you have won some victory for humanity.
-author: Horace Mann
-
---
-
-quote: You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.
-author: Jim Rohn
-source: IFS 'Responsibility Inspiration' email May 18 2015
-
---
-
-quote: As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison.
-author: Nelson Mandela
-source: IFS 'Freedom Inspiration' May 28 2015
-
---
-
-quote: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.
-author: William James
-source: IFS 'Belief Inspiration' June 2 2015
-
---
-
-quote: If you care enough about your work, to be willing to be criticized for it, then you have done a good day’s work.
-author: Seth Godin
-source: Stop Stealing Dreams @ 16:00 https://www.youtube.com/watch?v=sXpbONjV1Jc&t=16m
-
---
-
-quote: Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
-author: Theodore Roosevelt
-source: Parks and Recreation, series finale
-
---
-
-quote: Most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, ‘Is this necessary‘?
-author: Marcus Aurelius
-source: IFS 'Tranquility Inspiration' June 16 2015
-
---
-
-quote: ‎The more we search for ourselves, the less likely we are to find ourselves; and the more we search for God, and to serve our fellow-men, the more profoundly will we become acquainted with ourselves, and the more inwardly assured. This is one of the great spiritual laws of life.
-author: Shoghi Effendi
-source: Sasha Bayan at Patxi's and http://www.goodreads.com/quotes/370135-the-more-we-search-for-ourselves-the-less-likely-we
-more: From a letter written on behalf of Shoghi Effendi to an individual believer, February 18, 1954
-
---
-
-quote: Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
-author: Helen Schucman
-source: IFS 'Love Inspiration' June 24 2015 (my birthday!)
-
---
-
-quote: Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it.
-author: Muhammed Ali
-source: Momentum Sun Aug 16, 2015
-
---
-
-quote: Happiness only real when shared.
-author: Christopher McCandless
-source: When I saw the movie Into The Wild, I was transfixed by the final note written into the margins of Dr. Zhivago by a doomed Christopher McCandless: "Happiness only real when shared." via http://blog.codinghorror.com/on-the-meaning-of-coding-horror/ (July 30th email)
-
---
-
-quote: The cure to boredom is curiosity. There is no cure for curiosity.
-author: Dorothy Parker
-source: Momentum Thursday September 3, 2015
-
---
-
-quote: In the end, we will remember not the words of our enemies, but the silence of our friends.
-author: Martin Luther King, Jr.
-source: 'Cowspiracy: The Sustainability Secret' movie
-
---
-
-quote: I've missed more than 9,000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over rand over and over again in my life. And that is why I succeed.
-author: Michael Jordan
-source: 10 Things Successful People Never Do, Medium newsletter Sept 24, 2015
-
---
-
-quote: Nothing diminishes anxiety faster than action.
-author: Walter Anderson
-source: Sat Oct 3, 2015 Momentum New Tab page
-
---
+-
+  title: Charity
+  quote: A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog.
+  author: Jack London
+  source: IFS Nov 11, 2014 email
+-
+  title: Conflux of Eternity
+  quote:
+  author: Thomas Carlyle
+  source: Wikipedia
+  more: Carlyle's expressive phrase for time, as in every moment of it a centre in which all the forces to and from eternity meet and unite, so that by no past and no future can we be brought nearer to Eternity than where we at any moment of Time are; the Present Time, the youngest born of Eternity, being the child and heir of all the Past times with their good and evil, and the parent of all the Future. By the import of which (see Matt. xvi. 27), it is accordingly the first and most sacred duty of every successive age, and especially the leaders of it, to know and lay to heart as the only link by which Eternity lays hold of it, and it of Eternity.
+-
+  title: Crash Inspiration
+  quote: Kids come up to me all the time and say, 'Once I was going through a really bad time, and I saw you crash and get up, and it inspired me.'
+  author: Evel Knievel
+  source: IFS 11/10/14 email
+-
+  title: Dreams
+  quote: So many of our dreams at first seem impossible. Then they seem improbable. And then, when we summon the will, they soon become inevitable.
+  author: Nelson Mandela
+  source: Momentum, Nov 10 2014
+-
+  title: Horses for Courses
+  quote: Horses for courses
+  source: the Medium essay [Rust and Go](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95), by [Adam Jacob](https://twitter.com/adamhjk).
+  more: So.. Rust or Go? The pragmatic answer is ‘horses for courses’, I guess.
+-
+  title: Planting Trees
+  quote: The best time to plant a tree is 20 years ago. The second best time is today.
+-
+  quote: It’s not just the choices you make. It’s the choices you don’t realize that you are making.
+  author: Rhamni
+  source: Article compiling 25 inspiration quotes from Reddit: http://thoughtcatalog.com/nico-lang/2013/08/25-unintentionally-profound-statements-that-will-change-your-life-today/
+-
+  title: Planning Inspiration
+  quote: We must let go of the life we have planned, so as to accept the one that is waiting for us.
+  author: Joseph Campbell
+  source: [IFS](http://www.inspiration-for-success.com/daily-inspirational-quotes-2014/) 7/16/14 email
+-
+  title: Showing off
+  quote: Showing off is the fool's idea of glory.
+  author: Bruce Lee
+  source: [Momentum](http://dsernst.com/2014/08/21/New-Tab-Page/) Nov 8, 2014
+-
+  title: Spirituality is about relieving suffering
+  quote: All spirituality is about relieving suffering.
+  author: Siddhartha Gautama
+  source: related by Jim Carrey in this video: https://www.youtube.com/watch?v=P779XJEq6vg&t=700
+-
+  quote: "Pain is temporary, regret lasts forever."
+  source: From my 8th grade Lit class presentation where we picked a quotation to share.
+-
+  quote: "The fastest way to learn if you can trust something is to trust it"
+-
+  title: Success
+  quote: Success isn't about being the best. It's about always getting better.
+  author: Behance 99U
+  source: Momentum 11/23/2014
+-
+  title: Truth
+  quote: Truth is what works.
+  author: William James
+  source: used by Charlie Cross during the October 2014 roadtrip to San Francisco
+-
+  title: Wasted Time
+  quote: Time you enjoy wasting is not wasted time.
+  source: Momentum 11/11/14
+-
+  title: What is Right
+  quote: 'What is Right?', not 'Who is Right?'
+  author: Genius.com [ISMs philsophy](http://meta.genius.com/4126920)
+  more: Likewise, when Ilan or Tom (or anyone) stakes out a strong position, and even says “I think we should do x”, what they are REALLY saying is something more like “Here’s an idea for solving such-and-such problem. I think we should either do it, or, if you have a better idea, let’s talk about why it’s better and do it instead of my idea.”
+
+    Don’t worry about “rocking the boat” as you push for what you think is right – capsize the boat if that’s what you need to do to surface a problem.
+-
+  quote: The kingdom of heaven is within you.
+  author: Jesus of Nazareth
+-
+  quote: Fortune favors the bold
+  source: Latin class? Wikipedia? Trevor Worcester? No longer remember.
+-
+  quote: "... yearn for the endless immensity of the sea"
+  author: Antoine de Saint Euxpery
+-
+  quote: All problems boil down to two types: not knowing what you want, & not knowing how to get it.
+-
+  quote: The universe believes in you.
+  author: Alexander Perry
+-
+  quote: Every moment can be a moment of learning.
+  author: Charlotte Silver
+  source: Alexander Perry
+-
+  quote: There's two types of people, those that think they're normal, and those who know there's no such thing.
+  author: Will McAvoy
+  source: watching The Newsroom
+-
+  title: Talk is cheap.
+  quote: Talk is cheap.
+-
+  quote: What's the worst that could happen?
+  author: Tim Ferris
+  explanation: When on the fence about doing something daring or risk or unconventional, try asking "What's the worst that could happen?" as motivation.
+-
+  quote: May the worst day of your future be better than the best day of your past.
+  source: "Old Irish folk saying"
+  explanation: sounds counter-intuitive, but makes sense when you think about it.
+-
+  quote: If they can do it, so can you.
+  source: Momentum January 3, 2015
+  explanation: Totally agree with this sentiment. This is how I try to approach a lot of goals in life. Unless it's something with a strict physical barrier -- e.g. being an NFL lineback -- if someone else could do it, why couldnt I? And the same applies to all of us.
+-
+  quote: We know only too well that what we are doing is nothing more than a drop in the ocean. But if the drop were not there, the ocean would be missing something.
+  author: Mother Teresa
+  source: IFS, January 6 2015 email
+  explanation: "So just know you are valuable." -- Guus
+-
+  quote: Fear keeps us focused on the past or worried about the future. If we can acknowledge our fear, we can realize that right now we are okay. Right now, today, we are still alive, and our bodies are working marvelously. Our eyes can still see the beautiful sky. Our ears can still hear the voices of our loved ones.
+  author: Thich Nhat Hanh
+  source: IFS, January 13 2015 email
+-
+  quote: He that can have patience can have what he will.
+  author: Benjamin Franklin
+  source: IFS, January 15 2015 email
+-
+  quote: The journey of a thousand miles begins with a single step.
+  author: Lao-Tzu
+-
+  quote: Nature does not hurry, yet everything is accomplished.
+  author: Lao-Tzu
+  source: IFS February 4, 2015 email
+-
+  quote: Power concedes nothing without a demand. It never did, and it never will. Find out just what people will submit to, and you have found out the exact amount of injustice and wrong which will be imposed upon them; and these will continue until they are resisted with either words or blows, or with both. The limits of tyrants are prescribed by the endurance of those whom they oppress.
+  author: Frederick Douglass
+  date: August 4, 1857
+  source: Eric S. Raymond email signature (via "Defending GCC considered futile")
+-
+  quote: Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.
+  author: Pope John Paul II
+  source: Neil Postman's Five Things We Need to Know About Technological Change
+-
+  quote: Life is a team sport.
+  author: Hack Reactor
+  source: "Remind the student not to compare themselves against other students. Remind them the program is already highly selective. Instead, measure yourself honestly against the curriculum. What are your weak points? How can you shore them up? Ask for help! From other students, and from instructors. Life is a team sport; so is the program." -- Hack Reactor Instructor docs
+-
+  quote: For just one second, look at your life and see how perfect it is. Stop looking for the next secret door that is going to lead you to your real life. Stop waiting. This is it: there's nothing else. It's here, and you'd better decide to enjoy it or you're going to be miserable wherever you go, for the rest of your life, forever.
+  author: Lev Grossman
+  source: IFS March 11, 2015 'Reality Inspiration' email
+
+-
+  quote: Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.
+  author: Hal Borland
+  source: IFS March 15, 2015 'P Inspiration' email
+-
+  quote: When you see such beauty, what takes place? At that moment, the very majesty of a mountain makes you forget yourself. Right? Have you ever been in that position? When you have seen that you don't exist, only that grandeur exists.
+  author: J. Krishnamurti
+  date: January 31, 1982
+  source: http://www.jkrishnamurti.org/krishnamurti-teachings/view-daily-quote/20140519.php
+  more: Look at something which you have seen which is actually marvellously beautiful: a statue, a poem, a lily in the pond, or a well-kept lawn. And when you see such a piece of beauty - no, no, when you see such, not piece - when you see such beauty what takes place? At that moment, the very majesty of a mountain makes you forget yourself. Right? Have you ever been in that position? When you have seen that you don't exist, only that grandeur exists. But a few seconds later or a minute later the whole cycle begins, the confusion, the chatter. So beauty is where you are not. Have you understood this? Do you understand, sir? Oh, what a crowd! The tragedy of it. Truth is where you are not. Beauty, love is where you are not. Because we are not capable to look at this extraordinary thing called truth.
+-
+  quote: For every complex problem there is an answer that is clear, simple, and wrong.
+  author: H. L. Mencken
+  source: via Ribbon Farm post on legibility, 1st comment: http://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#comment-5175
+-
+  quote: There are far, far better things ahead than any we leave behind.
+  author: C.S. Lewis
+  source: Luis Guzman's Hack Reactor bio
+-
+  quote: Twenty years from now, you will be more disappointed by the things that you didn't do than by the things that you did do.
+  author: Mark Twain
+  source: Stephanie Uniacke's Hack Reactor bio
+-
+  quote: There is only one good, knowledge, and one evil, ignorance.
+  date: 5th century BC
+  author: Socrates
+  source: Civilization v
+  explanation: It is a problem that Socrates has been lost in modern culture. Physicists as an ethical authority... General misunderstanding of what we should be doing.
+-
+  quote: You can’t stop the waves, but you can learn to surf.
+  author: Jon Kabat-Zinn
+  source: IFS March 19, 2015 'Surf Inspiration' email
+-
+  quote: This is your life. Do what you love, and do it often.
+  author: Holstee Manifesto
+  source: Momentum New Tab Page, March 25, 2015
+  more: This is your life, do what you love, and do it often.
+  If you don’t like something, change it.
+  If you don’t like your job, quit.
+  If you don’t have enough time, stop watching tv.
+  If you are looking for the love of your life, stop; they will be waiting for you when you start doing things you love.
+  Stop over analyzing, life is simple.
+
+  All emotions are beautiful, when you eat, appreciate every last bite.
+  Open your mind, arms, and heart to new things and people, we are united in our differences.
+  Ask the next person you see what their passion is, and share your inspiring dream with them.
+  Travel often; getting lost will help you find yourself.
+
+  Some opportunities only come once, seize them.
+  life is about the people you meet, and the things you create with them so go out and start creating.
+  Life is short. Live your dream and share your passion.
+-
+  quote: I can sum up life in just three words: 'It goes on'.
+  author: Robert Frost ?
+  source: Writer's Almanac March 26, 2015
+-
+  quote: If you're depressed, you're living in the past. If you're anxious, you're living in the future. If you're at peace, you're living in the present.
+  author: Lao Zhu
+  source: some inspirational picture on Facebook
+-
+  quote: It took thousands of years of human civilisation before we got relatively benign governments. Power structures are not inherently benign; they must constantly be pressured to prevent malignant people using them to leverage their actions.
+  A non-authoritarian government is an historical anomaly. It's a ball balanced on top of a hill, pushed there by the deaths of millions, and kept there by the vigilance of those who care.
+  Please start caring.
+  author: barrkel https://news.ycombinator.com/user?id=barrkel
+  source: Hacker News post on 1984 MiniTruth reference in NSA backdoor of Lotus Notes: https://news.ycombinator.com/item?id=5846189
+-
+  quote: Hope is fuel, it moves us forward and it amplifies our best work.
+  author: Seth Godin
+  source: Seth's blog post 'Hope and Expectation' from April 13, 2015 http://sethgodin.typepad.com/seths_blog/2015/04/hope-and-expectation.html
+  more: Hope is fuel, it moves us forward and it amplifies our best work.
+  Expectation is the killer of joy, the shortest route to disappointment. When we *expect* that something will happen, we can't help but be let down...
+-
+  quote: Good judgment comes from experience. Experience comes from bad judgment.
+  author: Sramana Mitra
+  source: http://www.sramanamitra.com/2015/03/11/the-second-key-lesson-from-ellen-pao-vs-kleiner-perkins/
+  more: Here’s a wonderful saying that a friend of mine shared recently: “Good judgment comes from experience. Experience comes from bad judgment.”
+-
+  quote: The most precious inheritance that parents can give their children is their own happiness.
+  author: Thich Nhat Hanh
+  source: http://www.brainpickings.org/2015/03/31/how-to-love-thich-nhat-hanh/
+  more: "If our parents didn’t love and understand each other, how are we to know what love looks like? ... The most precious inheritance that parents can give their children is their own happiness. Our parents may be able to leave us money, houses, and land, but they may not be happy people. If we have happy parents, we have received the richest inheritance of all."
+-
+  quote: Be patient. Your future will soon come to you and lie down at your feet like a dog who knows and loves you no matter what you are.
+  author: Kurt Vonnegut
+  source: From the introduction to the 25th Anniversary Edition of Slaughterhouse Five
+  more: Well worth reading the opening page in full... A reflection on events described in the book and aging.
+-
+  quote: The future belongs to those who believe in the beauty of their dreams.
+  author: Eleanor Roosevelt
+  source: IFS 'Unknown Inspiration' email Sun May 10 2015
+-
+  quote: Do one thing every day that scares you.
+  author: Eleanor Roosevelt
+  source: Momentum New Tab Page 5/11/2015
+-
+  quote: Those who read own the world, and those who watch television lose it.
+  author: Werner Herzog
+  source: via Medium: Why Can't We Read Anymore https://medium.com/@hughmcguire/why-can-t-we-read-anymore-503c38c131fe
+-
+  quote: It’s not that I’m so smart, it’s just that I stay with problems longer.
+  author: Albert Einstein
+  source: IFS 'Solution Inspiration' email Wed May 13 2015
+-
+  quote: I beseech you to treasure up in your hearts these my parting words: Be ashamed to die until you have won some victory for humanity.
+  author: Horace Mann
+-
+  quote: You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.
+  author: Jim Rohn
+  source: IFS 'Responsibility Inspiration' email May 18 2015
+-
+  quote: As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison.
+  author: Nelson Mandela
+  source: IFS 'Freedom Inspiration' May 28 2015
+-
+  quote: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.
+  author: William James
+  source: IFS 'Belief Inspiration' June 2 2015
+-
+  quote: If you care enough about your work, to be willing to be criticized for it, then you have done a good day’s work.
+  author: Seth Godin
+  source: Stop Stealing Dreams @ 16:00 https://www.youtube.com/watch?v=sXpbONjV1Jc&t=16m
+-
+  quote: Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
+  author: Theodore Roosevelt
+  source: Parks and Recreation, series finale
+-
+  quote: Most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, ‘Is this necessary‘?
+  author: Marcus Aurelius
+  source: IFS 'Tranquility Inspiration' June 16 2015
+-
+  quote: ‎The more we search for ourselves, the less likely we are to find ourselves; and the more we search for God, and to serve our fellow-men, the more profoundly will we become acquainted with ourselves, and the more inwardly assured. This is one of the great spiritual laws of life.
+  author: Shoghi Effendi
+  source: Sasha Bayan at Patxi's and http://www.goodreads.com/quotes/370135-the-more-we-search-for-ourselves-the-less-likely-we
+  more: From a letter written on behalf of Shoghi Effendi to an individual believer, February 18, 1954
+-
+  quote: Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
+  author: Helen Schucman
+  source: IFS 'Love Inspiration' June 24 2015 (my birthday!)
+-
+  quote: Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it.
+  author: Muhammed Ali
+  source: Momentum Sun Aug 16, 2015
+-
+  quote: Happiness only real when shared.
+  author: Christopher McCandless
+  source: When I saw the movie Into The Wild, I was transfixed by the final note written into the margins of Dr. Zhivago by a doomed Christopher McCandless: "Happiness only real when shared." via http://blog.codinghorror.com/on-the-meaning-of-coding-horror/ (July 30th email)
+-
+  quote: The cure to boredom is curiosity. There is no cure for curiosity.
+  author: Dorothy Parker
+  source: Momentum Thursday September 3, 2015
+-
+  quote: In the end, we will remember not the words of our enemies, but the silence of our friends.
+  author: Martin Luther King, Jr.
+  source: 'Cowspiracy: The Sustainability Secret' movie
+-
+  quote: I've missed more than 9,000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over rand over and over again in my life. And that is why I succeed.
+  author: Michael Jordan
+  source: 10 Things Successful People Never Do, Medium newsletter Sept 24, 2015
+-
+  quote: Nothing diminishes anxiety faster than action.
+  author: Walter Anderson
+  source: Sat Oct 3, 2015 Momentum New Tab page
