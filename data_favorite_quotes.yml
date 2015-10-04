@@ -2,7 +2,6 @@
 ## Intention: To display a random ticker of some of my favorite quotes.
 
 -
-  title: Charity
   quote: A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog.
   author: Jack London
   source: IFS Nov 11, 2014 email
@@ -12,39 +11,32 @@
   source: Wikipedia
   more: Carlyle's expressive phrase for time, as in every moment of it a centre in which all the forces to and from eternity meet and unite, so that by no past and no future can we be brought nearer to Eternity than where we at any moment of Time are; the Present Time, the youngest born of Eternity, being the child and heir of all the Past times with their good and evil, and the parent of all the Future. By the import of which (see Matt. xvi. 27), it is accordingly the first and most sacred duty of every successive age, and especially the leaders of it, to know and lay to heart as the only link by which Eternity lays hold of it, and it of Eternity.
 -
-  title: Crash Inspiration
   quote: Kids come up to me all the time and say, 'Once I was going through a really bad time, and I saw you crash and get up, and it inspired me.'
   author: Evel Knievel
   source: IFS 11/10/14 email
 -
-  title: Dreams
   quote: So many of our dreams at first seem impossible. Then they seem improbable. And then, when we summon the will, they soon become inevitable.
   author: Nelson Mandela
   source: Momentum, Nov 10 2014
 -
-  title: Horses for Courses
   quote: Horses for courses
   source: the Medium essay [Rust and Go](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95), by [Adam Jacob](https://twitter.com/adamhjk).
   more: So.. Rust or Go? The pragmatic answer is ‘horses for courses’, I guess.
 -
-  title: Planting Trees
   quote: The best time to plant a tree is 20 years ago. The second best time is today.
 -
   quote: It’s not just the choices you make. It’s the choices you don’t realize that you are making.
   author: Rhamni
   source: Article compiling 25 inspiration quotes from Reddit http://thoughtcatalog.com/nico-lang/2013/08/25-unintentionally-profound-statements-that-will-change-your-life-today/
 -
-  title: Planning Inspiration
   quote: We must let go of the life we have planned, so as to accept the one that is waiting for us.
   author: Joseph Campbell
   source: IFS 7/16/14 email http://www.inspiration-for-success.com/daily-inspirational-quotes-2014/
 -
-  title: Showing off
   quote: Showing off is the fool's idea of glory.
   author: Bruce Lee
   source: Momentum Nov 8, 2014 http://dsernst.com/2014/08/21/New-Tab-Page/
 -
-  title: Spirituality is about relieving suffering
   quote: All spirituality is about relieving suffering.
   author: Siddhartha Gautama
   source: related by Jim Carrey in this video https://www.youtube.com/watch?v=P779XJEq6vg&t=700
@@ -54,21 +46,17 @@
 -
   quote: The fastest way to learn if you can trust something is to trust it.
 -
-  title: Success
   quote: Success isn't about being the best. It's about always getting better.
   author: Behance 99U
   source: Momentum 11/23/2014
 -
-  title: Truth
   quote: Truth is what works.
   author: William James
   source: used by Charlie Cross during the October 2014 roadtrip to San Francisco
 -
-  title: Wasted Time
   quote: Time you enjoy wasting is not wasted time.
   source: Momentum 11/11/14
 -
-  title: What is Right
   quote: "'What is Right?', not 'Who is Right?'"
   author: Genius.com ISMs philsophy http://meta.genius.com/4126920
   more: >
@@ -97,7 +85,6 @@
   author: Will McAvoy
   source: watching The Newsroom
 -
-  title: Talk is cheap.
   quote: Talk is cheap.
 -
   quote: What's the worst that could happen?
