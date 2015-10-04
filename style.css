@@ -14,4 +14,7 @@ blockquote {
 
 cite {
   font-size: 80%;
+  margin-right: 40px;
+  padding-top: 40px;
+  display: block;
 }
