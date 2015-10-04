@@ -9,6 +9,7 @@
   "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
   "license": "UNLICENSED",
   "dependencies": {
-    "js-yaml": "^3.4.2"
+    "js-yaml": "^3.4.2",
+    "lodash": "^3.10.1"
   }
 }
