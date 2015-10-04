@@ -1,9 +1,9 @@
 body {
-  font-size: 200%;
-  font-family: sans-serif;
 }
 
-div {
+body div {
+  font-size: 200%;
+  font-family: sans-serif;
   padding: 10% 12%;
   text-align: right;
 }
