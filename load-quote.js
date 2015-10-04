@@ -1,5 +1,7 @@
 /* eslint-env browser, amd */
 
+'use strict'
+
 var yaml = require('yamljs')
 
 yaml.load('data_favorite_quotes.yml', function (quotes) {
