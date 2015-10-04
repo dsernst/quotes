@@ -4,8 +4,10 @@
   "description": "Display one of my favorite quotes",
   "main": "index.html",
   "scripts": {
-    "deploy": "git checkout gh-pages && git merge --no-edit master && git push && git checkout -",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify load-quote.js -v | uglifyjs -v > bundle.js && git add bundle.js && git commit -m 'Build bundle.js'",
+    "deploy": "git checkout gh-pages && git merge --no-edit master && npm run build && git push && git checkout -",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watchify load-quote.js -o bundle.js -dv"
   },
   "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
   "license": "UNLICENSED",

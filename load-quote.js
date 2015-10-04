@@ -10,6 +10,6 @@ yaml.load('quotes.yml', function (quotes) {
   var blockquote = document.querySelectorAll('blockquote')[0]
   var cite = document.querySelectorAll('cite')[0]
 
-  blockquote.textContent = quote.quote
+  blockquote.innerHTML = quote.quote.replace(/\n\r?/g, '<br />')
   cite.textContent = quote.author || 'Unknown'
 })
