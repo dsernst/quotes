@@ -14,7 +14,10 @@
   "dependencies": {
     "yamljs": "^0.2.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "watchify": "^3.5.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dsernst/quotes.git"
