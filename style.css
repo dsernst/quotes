@@ -21,3 +21,9 @@ cite {
   padding-top: 40px;
   display: block;
 }
+
+#refresh-link {
+  color: grey;
+  font-size: 80%;
+  margin-right: 40px;
+}
