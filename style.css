@@ -22,8 +22,12 @@ cite {
   display: block;
 }
 
+#refresh-container {
+  text-align: center;
+}
+
 #refresh-link {
   color: grey;
-  font-size: 80%;
-  margin-right: 40px;
+  font-size: 60%;
+  text-transform: uppercase;
 }
